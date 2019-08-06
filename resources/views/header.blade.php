@@ -16,7 +16,7 @@
 
                             <div class="collapse navbar-collapse" id="mosh-navbar">
                                 <ul class="navbar-nav animated" id="nav">
-                                    <li class="nav-item active"><a class="nav-link" href="index.html">Về ITG</a></li>
+                                    <li class="nav-item active"><a class="nav-link" href="{{ route('gioi_thieu') }}">Về ITG</a></li>
                                     <li class="nav-item dropdown">
                                         <a class="nav-link dropdown-toggle" href="#" >Sản Phẩm</a>
                                         <div class="dropdown-menu">
@@ -27,13 +27,13 @@
                                     </li>
                                     <li class="nav-item"><a class="nav-link" href="about.html">Dịch vụ</a></li>
                                     <li class="nav-item dropdown">
-                                        <a class="nav-link dropdown-toggle" href="#" >Tin tức</a>
+                                        <a class="nav-link dropdown-toggle" href="{{ route('tin_tuc') }}" >Tin tức</a>
                                         <div class="dropdown-menu">
                                             <a class="dropdown-item" href="">Tin tức sự kiện</a>
                                             <a class="dropdown-item" href="">Báo chí nói về chúng tôi</a> 
                                         </div>
                                     </li>
-                                    <li class="nav-item"><a class="nav-link" href="portfolio.html">Khách hàng</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="{{ route('khach_hang') }}">Khách hàng</a></li>
                                     <li class="nav-item"><a class="nav-link" href="{{ route('tuyen_dung') }}">Tuyển dụng</a></li>
                                     <li class="nav-item dropdown">
                                         <a class="nav-link dropdown-toggle" href="#" >Chuyên đề</a>

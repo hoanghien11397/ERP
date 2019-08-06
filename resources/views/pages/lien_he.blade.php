@@ -8,7 +8,7 @@
 <!-- ****lien he **** -->
 
 <div class="tp-bgimg defaultimg " data-bgcolor="undefined" style="background-repeat: no-repeat; background-image: url(&quot;https://www.itgvietnam.com/wp-content/uploads/2018/06/lien-he.jpg&quot;); background-size: cover; background-position: center center; width: 100%; height: 100%; opacity: 1; visibility: inherit; z-index: 20;"></div>
-<img  src="https://www.itgvietnam.com/wp-content/uploads/2018/06/lien-he.jpg" style="width: 1720px;height: 633px">
+<img  src="https://www.itgvietnam.com/wp-content/uploads/2018/06/lien-he.jpg">
 <div class="contact_box1">
     <div class="container">
         <div class="row">

@@ -28,6 +28,9 @@
     <link href="css/style.css" rel="stylesheet">
     <link href="css/lien_he.css" rel="stylesheet">
     <link href="css/tuyen_dung.css" rel="stylesheet">
+    <link href="css/gioi_thieu.css" rel="stylesheet">
+    <link href="css/khach_hang.css" rel="stylesheet">
+    <link href="css/tin_tuc.css" rel="stylesheet">
     
  
 

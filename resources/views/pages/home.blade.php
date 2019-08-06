@@ -8,17 +8,18 @@
 <!-- **** Welcome **** -->
     <section >
         <div class="hero-slides owl-carousel">
+            
             <!-- Single Hero Slides -->
             <div class="d-flex align-items-end justify-content-center">
                 <div class="hero-slide-content text-center">
-                    <img class="slide-img" src="https://www.itgvietnam.com/wp-content/uploads/2019/02/anh-nen-02-min.jpg" alt="">
-                    
+                    <img class="slide-img" src="https://www.itgvietnam.com/wp-content/uploads/2019/05/banner-moi-2.jpg" alt="">
                 </div>
             </div>
             <!-- Single Hero Slides -->
             <div class="d-flex align-items-end justify-content-center">
                 <div class="hero-slide-content text-center">
-                    <img class="slide-img" src="https://www.itgvietnam.com/wp-content/uploads/2019/05/banner-moi-2.jpg" alt="">
+                    <img class="slide-img" src="https://www.itgvietnam.com/wp-content/uploads/2019/02/anh-nen-02-min.jpg" alt="">
+                    
                 </div>
             </div>
         </div>
