@@ -15,11 +15,12 @@ Route::get('/', function () {
     return view('pages.home');
 });
 
+Route::get('tuyen_dung', function () {
+    return view('pages.tuyen_dung');
+})->name('tuyen_dung');
 
-    Route::get('tuyen_dung',function(){
-        return view('pages.tuyen_dung');
-    });
-    Route::get('lien_he',function(){
-        return view('pages.lien_he');
-    });
+
+Route::get('lien_he',function(){
+    return view('pages.lien_he');
+})->name('lien_he');
     
