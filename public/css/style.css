@@ -1,0 +1,698 @@
+
+/* --------------------------
+:: 1.0 Base CSS Start
+-------------------------- */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body,
+html {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    color: #404551;
+    line-height: 1.2;
+}
+
+a,
+a:hover,
+a:focus,
+a:active {
+    font-weight: 700;
+    text-decoration: none;
+    -webkit-transition-duration: 500ms;
+    transition-duration: 500ms;
+}
+
+li {
+    list-style: none;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    color: #abadbe;
+    font-size: 15px;
+    font-weight: 500;
+    margin-top: 0;
+    line-height: 1.9;
+}
+
+ul,
+ol {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.section_padding_100 {
+    padding-top: 70px;
+    padding-bottom:47px;
+}
+
+.section_padding_100_0 {
+    padding-top: 100px;
+    padding-bottom: 0;
+}
+
+.section_padding_100_50 {
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+.section_padding_100_70 {
+    padding-top: 100px;
+    padding-bottom: 70px;
+}
+
+.section_padding_50 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.section_padding_50_20 {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.section_padding_150 {
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+
+.section_padding_200 {
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+.section_padding_0_100 {
+    padding-top: 0;
+    padding-bottom: 100px;
+}
+
+.section_padding_70 {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.section_padding_0_50 {
+    padding-top: 0;
+    padding-bottom: 50px;
+}
+
+.mt-15 {
+    margin-top: 15px;
+}
+
+.mt-30 {
+    margin-top: 30px;
+}
+
+.mt-40 {
+    margin-top: 40px;
+}
+
+.mt-50 {
+    margin-top: 50px;
+}
+
+.mt-100 {
+    margin-top: 100px;
+}
+
+.mt-150 {
+    margin-top: 150px;
+}
+
+.mr-15 {
+    margin-right: 15px;
+}
+
+.mr-30 {
+    margin-right: 30px;
+}
+
+.mr-50 {
+    margin-right: 50px;
+}
+
+.mr-100 {
+    margin-right: 100px;
+}
+
+.mb-15 {
+    margin-bottom: 15px;
+}
+
+.mb-30 {
+    margin-bottom: 30px;
+}
+
+.mb-50 {
+    margin-bottom: 50px;
+}
+
+.mb-100 {
+    margin-bottom: 100px;
+}
+
+.ml-15 {
+    margin-left: 15px;
+}
+
+.ml-30 {
+    margin-left: 30px;
+}
+
+.ml-50 {
+    margin-left: 50px;
+}
+
+.ml-100 {
+    margin-left: 100px;
+}
+
+#preloader {
+    overflow: hidden;
+    background-color: #211b31;
+    height: 100%;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 999999;
+}
+
+.mosh-preloader {
+    overflow: hidden;
+    -webkit-animation: 3000ms linear 0s normal none infinite running mosh-preloader;
+    animation: 3000ms linear 0s normal none infinite running mosh-preloader;
+    background-color: transparent;
+    border-color: #f1f2f3 #f1f2f3 #4a7aec;
+    border-radius: 50%;
+    border-style: solid;
+    border-width: 4px;
+    height: 50px;
+    left: calc(50% - 25px);
+    position: relative;
+    top: calc(50% - 25px);
+    width: 50px;
+    z-index: 9;
+}
+
+@-webkit-keyframes mosh-preloader {
+    0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes mosh-preloader {
+    0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+
+
+
+
+/* --------------------------
+:: 2.0 Header Area CSS
+-------------------------- */
+
+.header_area {
+    left: 0;
+    position: absolute;
+    width: 100%;
+    z-index: 999;
+    top: 0;
+    padding: 0 15px;
+    height: 120px;
+    background-color: transparent;
+    -webkit-transition-duration: 700ms;
+    transition-duration: 700ms;
+}
+
+.menu_area {
+    position: relative;
+    z-index: 2;
+}
+
+.menu_area #nav .nav-link {
+    color: #040404;
+    display: block;
+    font-size: 15px;
+    -webkit-transition-duration: 500ms;
+    transition-duration: 500ms;
+    padding: 0 15px;
+}
+
+.menu_area .dropdown-menu.show {
+    border: none;
+    box-shadow: 3px 5px 12px rgba(0, 0, 0, 0.15);
+}
+
+.menu_area .dropdown-item {
+    font-size: 14px;
+    font-weight: 700;
+    color: #9597a6;
+}
+
+.menu_area #nav .nav-link:hover,
+.menu_area #nav .nav-item.active .nav-link,
+.menu_area .dropdown-item:hover {
+    color: #4a7aec;
+}
+
+.navbar-nav {
+    -webkit-transition-duration: 500ms;
+    transition-duration: 500ms;
+}
+
+/* Search Form CSS */
+
+.search-form-area {
+    width: auto;
+    height: 50px;
+    display: none;
+    -webkit-transition-duration: 500ms;
+    transition-duration: 500ms;
+}
+
+.search-form-open .search-form-area {
+    display: block !important;
+}
+
+.search-form-open .navbar-nav {
+    display: none !important;
+}
+
+.search-form-area #search {
+    width: 550px;
+    height: 50px;
+    border-radius: 10px;
+    border: 2px solid rgba(255, 255, 255, 0.7);
+    padding: 0 30px;
+    color: #fff !important;
+    font-size: 14px;
+    background-color: transparent;
+    -webkit-transition-duration: 500ms;
+    transition-duration: 500ms;
+}
+
+
+/* --------------------------
+:: 3.0 Welcome Area CSS
+-------------------------- */
+
+.welcome_area {
+    position: relative;
+    z-index: 2;
+    height: 1200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.hero-slides {
+    position: relative;
+    z-index: 2;
+}
+
+.single-hero-slide {
+    height: 1200px;
+    width: 100%;
+    position: relative;
+    z-index: 1;
+}
+
+.hero-slide-content h2 {
+    font-size: 60px;
+    color: #fff;
+    line-height: 1.8;
+}
+
+.hero-slide-content h4 {
+    color: #fff;
+    font-weight: 400;
+    margin-bottom: 0;
+}
+
+.hero-slide-content .slide-img {
+    color: #fff;
+    margin-top: 100px;
+    font-weight: 400;
+}
+
+.hero-slides .owl-prev,
+.hero-slides .owl-next {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    background-color: transparent;
+    line-height: 60px;
+    text-align: center;
+    top: 50%;
+    margin-top: -30px;
+    left: 50px;
+    border-radius: 50%;
+    color: #a2baff;
+    -webkit-transition-duration: 500ms;
+    transition-duration: 500ms;
+}
+
+.hero-slides .owl-next {
+    left: auto;
+    right: 50px;
+}
+
+.hero-slides .owl-prev:hover,
+.hero-slides .owl-next:hover {
+    background-color: #4a7aec;
+}
+
+
+
+
+/* -------------------------
+:: 6.0 Features Area
+------------------------- */
+
+.mosh-features-area {
+    background-image: url('https://www.itgvietnam.com/wp-content/themes/default/images/giai-phap-chuyen-nganh.jpg');
+    position: relative;
+    z-index: 1;
+}
+
+.features-img > img {
+    width: 40%;
+    position: absolute;
+    bottom: -30px;
+    left: 30px;
+    z-index: 9;
+}
+
+.mosh-features-area .section-heading {
+    margin-bottom: 60px;
+}
+
+.mosh-features-area .section-heading h2 {
+    color: #fff;
+}
+
+
+
+/* -------------------------
+:: 11.0 FAQ Area
+------------------------- */
+
+.panel {
+    background-color: #ebf2f4;
+    border: 0 solid transparent;
+    border-radius: 4px;
+    box-shadow: 0 0 0 transparent;
+    margin-bottom: 15px;
+}
+
+
+img[alt="product"]{
+    width: unset!important;
+    margin: auto;
+    background: #036894;
+    max-width: 100%;
+    height: auto;
+    border-radius: 100%;
+}
+img[alt="solution-img"]{
+    max-width: 100%!important;
+    width: unset!important;
+    height: auto;
+    text-align: center;
+    margin: auto;
+}
+
+.solution_slider .box{
+    padding: 15px 0;
+}
+.solution_slider .box .item h6{
+    font-size: 13px;
+    color: white;
+    padding-top: 15px;
+}
+
+
+/* tin tuc & su kien */
+
+.news-event .event p{
+    line-height: 1.5;
+    font-size: 14px;
+    text-align: justify;
+    font-weight: 100;
+}
+
+.news-event .event h6{
+    font-size: 15px;
+}
+
+
+.news-event .thumbnail {
+    width: auto;
+    overflow: hidden; 
+    border: 1px solid #e5e5e5; 
+}
+
+/* Thumbnail */
+.news-event .thumbnail img { 
+transition-duration: 0.5s;
+/* Safari & Google Chrome */
+-webkit-transition-duration: 0.5s; 
+/* Mozilla Firefox */
+-moz-transition-duration: 0.5s; 
+/* Opera */
+-o-transition-duration: 0.5s;
+/* IE 9 */
+-ms-transition-duration: 0.5s;
+}
+        
+
+.news-event .thumbnail img:hover {
+transform: scale(1.2);
+/* Safari & Google Chrome */
+-webkit-transform: scale(1.2);
+/* Mozilla Firefox */
+-moz-transform: scale(1.2); 
+/* Opera */
+-o-transform: scale(1.2);
+/* IE 9 */
+-ms-transform: scale(1.2);
+cursor: pointer; 
+}
+
+
+/* khach hang noi 3s erp */
+
+  .team-area {
+    padding-top: 100px;
+    background-color: #f9f9ff;
+  }
+  
+  .team-area .single-team {
+    padding: 10px;
+  }
+  
+  .team-area .thumb {
+    position: relative;
+  }
+  
+  .team-area .thumb div {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-color: rgba(36, 36, 37, 0.5);
+    color: #fff;
+    opacity: 0;
+    transition: opacity 0.5s;
+  }
+  
+  .team-area .thumb div i {
+    color: #fff;
+    font-size: 20px;
+    padding: 10px;
+    z-index: 9999;
+  }
+  
+  .team-area .thumb img {
+    display: block;
+    width: 100%;
+  }
+  
+  .team-area .thumb div span {
+    display: block;
+    position: absolute;
+    bottom: 30px;
+    left: 20px;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 3px;
+  }
+  
+  .team-area .thumb div p {
+    display: block;
+    position: absolute;
+    bottom: 10px;
+    left: 20px;
+    font-weight: 100;
+  }
+  
+  @media (max-width: 768px) {
+    .team-area .thumb div p {
+      bottom: -15px;
+    }
+  }
+  
+  .team-area .thumb:hover div {
+    opacity: 1;
+    cursor: pointer;
+  }
+  .team-area .thumb .text{
+    color: white;
+    line-height: 1.5;
+    text-align: justify;
+    font-style: italic;
+    padding-right: 18px;
+  }
+
+  /* quan tri doanh nghiep */
+
+#quantri{
+      margin-top: 60px;
+      background-color: #ecf3f5;
+  }
+#quantri h3{
+    padding-top:46px;
+    padding-bottom:49px;
+}
+
+#quantri .owl-carousel .owl-item img {
+    max-width: 320px;
+    display: block;
+    width: 100%;
+}
+#quantri .panel-content{
+    margin-right:24px;
+    margin-top: -196px;
+    position: absolute;
+    z-index: 99;
+    margin-left: 199px;
+    background-color: white;
+    box-shadow: 0 0 5px #ccc;
+}
+
+#quantri .panel-content-inner{
+    padding:15px;
+}
+
+#quantri .panel-content-inner h6{
+    font-size: 15px;
+    color: black;
+}
+
+#quantri .panel-content-inner p{
+    font-size: 15px;
+    line-height: 1.5;
+    color: #000000c4;
+}
+
+/* --------------------------
+:: 12.0 Footer Area CSS
+-------------------------- */
+
+.footer-area {
+    background-image: url('https://www.itgvietnam.com/wp-content/themes/default/images/ft_bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    padding-top: 25px;
+    font-size: 14px;
+}
+
+
+.single-footer{
+    padding: 30px 0 0 30px;
+    border-left: 1px solid white;
+}
+
+.single-footer p {
+    text-align: left;
+    color:white;
+    font-weight: 100;
+    font-size: 14px;
+    text-align: justify;
+}
+
+.single-footer h5{
+    color: white;
+}
+.single-footer li{
+line-height: 2;
+color: white;
+font-weight: normal;
+}
+
+.single-footer li:hover{
+    color: #deda3c;
+    }
+.footer-area a{
+    color: white;
+     padding-right: 35px;
+}
+
+.mosh-clients-area .item{
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 20px;
+    border: 1px solid #8080803b;
+    background-color: white;
+}
+.mosh-clients-area .fa-chevron-right{
+    float: right;
+}
+
+.mosh-clients-area .fa-chevron-left{
+    float: left;
+}
+
+.mosh-clients-area  .owl-nav{
+    clear: fixed;
+    margin-top: -98px;
+    position: absolute;
+    font-size: 32px;
+    color: #4b7bec;
+}
+
+
+
