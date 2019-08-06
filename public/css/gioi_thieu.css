@@ -1,0 +1,49 @@
+
+#intro {
+    padding-top:105px;
+}
+
+#intro h3,h6{
+    margin-bottom: 20px;
+    color:#036893;
+
+}
+
+#intro p{
+    color:black;
+    text-align: justify;
+}
+
+
+#intro .intro-company{
+    padding:95px 0;
+}
+
+#intro .title_line {
+        border: 1px solid #036894;
+        width: 8%;
+        margin-bottom: 20px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+#intro .boxx p{
+    font-weight: normal;
+    text-align: center;
+    margin-top: 16px;
+}
+#intro .chinhsach .box-text-inner{
+    padding: 15px;
+    background: #fff;
+    box-shadow: 0 0 5px #ccc;
+   
+}
+#intro .thumb-img img {
+    display: block;
+    margin: auto;
+    transition: all .3s;
+}
+
+#intro .thumb-img:hover img {
+    transform: rotateY(180deg);
+}

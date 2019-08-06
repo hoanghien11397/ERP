@@ -7,6 +7,12 @@
                 <h5>VỀ ITG</h5>
                 <p>Tại ITG, chúng tôi luôn phấn đấu giúp các doanh nghiệp định hình lại phương pháp quản trị doanh nghiệp để vận hành tốt hơn, nâng cao hiệu quả kinh doanh và cải thiện đời sống con người, thông qua việc kết nối con người và công nghệ trong thời gian thực.</p>
             </div>
+            <div class="social-btn float-right">
+                <a href=""><i class="fab fa-youtube"></i></a>
+                <a href=""><i class="fab fa-facebook"></i></a>
+                <a href=""><i class="fab fa-twitter"></i></a>
+                <a href=""><i class="fab fa-google-plus"></i></a>
+            </div>
         </div>
         <div class="col-md-3">
             <div class="single-footer">
