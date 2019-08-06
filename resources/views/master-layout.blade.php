@@ -24,10 +24,11 @@
 
 
     <!-- custom css -->
-
-    <link href="css/style.css" rel="stylesheet">
-
     <link href="css/responsive.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+    <link href="css/lien_he.css" rel="stylesheet">
+    <link href="css/tuyen_dung.css" rel="stylesheet">
+    
  
 
 
@@ -65,37 +66,6 @@
     
     <!-- custom js -->
 
-
-    <script>
- 
-
-    $(function() {
-          
-       
-        // back to top
-
-
-        $(window).scroll(function() {
-            if ($(this).scrollTop() > 100) {
-                $('#goTop').fadeIn();
-            } else {
-                $('#goTop').fadeOut();
-            }
-
-
-        });
-
-        $('#goTop').click(function() {
-            $("html, body").animate({
-                scrollTop: 0
-            }, 600);
-            return false;
-        });
-    });
-
-    
-
-    </script>
 
 </body>
 

@@ -1,7 +1,4 @@
-    <!-- ***** Preloader Start ***** -->
-    <div id="preloader">
-        <div class="mosh-preloader"></div>
-    </div>
+
 
     <!-- ***** Header  Start ***** -->
     <header class="header_area clearfix">
@@ -37,7 +34,7 @@
                                         </div>
                                     </li>
                                     <li class="nav-item"><a class="nav-link" href="portfolio.html">Khách hàng</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="blog.html">Tuyển dụng</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="{{ route('tuyen_dung') }}">Tuyển dụng</a></li>
                                     <li class="nav-item dropdown">
                                         <a class="nav-link dropdown-toggle" href="#" >Chuyên đề</a>
                                         <div class="dropdown-menu">
@@ -51,7 +48,7 @@
                                             <a class="dropdown-item" href="">Kế toán, kiểm toán</a> 
                                         </div>
                                     </li>
-                                    <li class="nav-item"><a class="nav-link" href="contact.html">Liên hệ</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="{{ route('lien_he') }}">Liên hệ</a></li>
                                 </ul>
                                
                                 <div  style="margin-left:25px;">
