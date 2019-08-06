@@ -11,7 +11,10 @@
 |
 */
 
-Route::prefix('/')->group(function () {
+Route::get('/', function () {
+    return view('pages.home');
+});
+
 
     Route::get('tuyen_dung',function(){
         return view('pages.tuyen_dung');
@@ -20,6 +23,3 @@ Route::prefix('/')->group(function () {
         return view('pages.lien_he');
     });
     
- 
-  
-});
