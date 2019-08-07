@@ -135,8 +135,8 @@
                 <div class="event owl-carousel">
                     <div class="item">                  
                             <a href="">
-                            <div class="thumbnail">
-                                <img src="https://www.itgvietnam.com/wp-content/uploads/2018/09/Trần-Hoàn-Sinh-TGĐ-Công-ty-CP-Mỹ-phẩm-Salonzo-01-min-min.jpg" alt="solution-img">
+                            <div class="cc_thumb">
+                              <img src="https://www.itgvietnam.com/wp-content/uploads/2014/10/nhan-vat-elmich-01.png">
                             </div>
                             <h6>ITG khởi động triển khai giải pháp 3S ERP.iSCM tại K&G Việt Nam</h6>
                             <p> Ngày 25/6 tại văn phòng công ty CP Đầu tư K&G Việt Nam(K&G), đã diễn ra Lễ Khởi Động Dự Án Triển Khai Giải Pháp Quản Trị Doanh Nghiệp 3S.</p>
@@ -145,8 +145,8 @@
 
                     <div class="item">                  
                             <a href="">
-                            <div class="thumbnail">
-                                <img src="https://www.itgvietnam.com/wp-content/uploads/2018/09/Ông-Hòa-Quang-Thiệp-–-TGĐ-Công-ty-CP-Bao-Bì-Sivico-01-min-1-min.jpg" alt="solution-img">
+                            <div class="cc_thumb">
+                            <img src="https://www.itgvietnam.com/wp-content/uploads/2018/06/person2.jpg">
                             </div>
                             <h6>ITG khởi động triển khai giải pháp 3S ERP.iSCM tại K&G Việt Nam</h6>
                             <p> Ngày 25/6 tại văn phòng công ty CP Đầu tư K&G Việt Nam(K&G), đã diễn ra Lễ Khởi Động Dự Án Triển Khai Giải Pháp Quản Trị Doanh Nghiệp 3S.</p>
@@ -155,8 +155,8 @@
 
                     <div class="item">                  
                             <a href="">
-                            <div class="thumbnail">
-                                <img src="https://www.itgvietnam.com/wp-content/uploads/2018/09/nxkh-nam-duoc-01-min-min.jpg" alt="solution-img">
+                            <div class="cc_thumb">
+                              <img src="https://www.itgvietnam.com/wp-content/uploads/2014/10/nhan-vat-nam-duoc-01.png">
                             </div>
                             <h6>ITG khởi động triển khai giải pháp 3S ERP.iSCM tại K&G Việt Nam</h6>
                             <p> Ngày 25/6 tại văn phòng công ty CP Đầu tư K&G Việt Nam(K&G), đã diễn ra Lễ Khởi Động Dự Án Triển Khai Giải Pháp Quản Trị Doanh Nghiệp 3S.</p>
@@ -165,8 +165,8 @@
 
                     <div class="item">                  
                             <a href="">
-                            <div class="thumbnail">
-                                <img src="https://www.itgvietnam.com/wp-content/uploads/2018/09/nxkh-goldsun-1-min.jpg" alt="solution-img">
+                            <div class="cc_thumb">
+                              <img src="https://www.itgvietnam.com/wp-content/uploads/2014/10/nhan-vat-darphaco-01.png">
                             </div>
                             <h6>ITG khởi động triển khai giải pháp 3S ERP.iSCM tại K&G Việt Nam</h6>
                             <p> Ngày 25/6 tại văn phòng công ty CP Đầu tư K&G Việt Nam(K&G), đã diễn ra Lễ Khởi Động Dự Án Triển Khai Giải Pháp Quản Trị Doanh Nghiệp 3S.</p>
@@ -175,8 +175,8 @@
 
                     <div class="item">                  
                             <a href="">
-                            <div class="thumbnail">
-                                <img src="https://www.itgvietnam.com/wp-content/uploads/2018/09/nxkh-goldsun-1-min.jpg" alt="solution-img">
+                            <div class="cc_thumb">
+                              <img src="https://www.itgvietnam.com/wp-content/uploads/2018/06/person1.jpg">
                             </div>
                             <h6>ITG khởi động triển khai giải pháp 3S ERP.iSCM tại K&G Việt Nam</h6>
                             <p> Ngày 25/6 tại văn phòng công ty CP Đầu tư K&G Việt Nam(K&G), đã diễn ra Lễ Khởi Động Dự Án Triển Khai Giải Pháp Quản Trị Doanh Nghiệp 3S.</p>

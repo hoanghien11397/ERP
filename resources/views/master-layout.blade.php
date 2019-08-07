@@ -32,15 +32,11 @@
     <link href="css/khach_hang.css" rel="stylesheet">
     <link href="css/tin_tuc.css" rel="stylesheet">
     <link href="css/san_pham.css" rel="stylesheet">
+    <link href="css/dich_vu.css" rel="stylesheet">
+    <link href="css/chuyen_de.css" rel="stylesheet">
+    <link href="css/download.css" rel="stylesheet">
     
  
-
-
-
-
-
-
-
 </head>
 
 <body>

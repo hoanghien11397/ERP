@@ -11,3 +11,11 @@ p {
 .top-content {
   margin-bottom: 20px;
 }
+.cc_thumb img {
+  max-width: 100%;
+  height: auto;
+  width: unset!important;
+  display: block;
+  margin: auto;
+  border-radius: 100%;
+}
