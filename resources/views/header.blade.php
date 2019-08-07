@@ -37,7 +37,7 @@
                                     <li class="nav-item"><a class="nav-link" href="{{ route('khach_hang') }}"><i class="fas fa-users"></i> Khách hàng</a></li>
                                     <li class="nav-item"><a class="nav-link" href="{{ route('tuyen_dung') }}"><i class="far fa-newspaper"></i> Tuyển dụng</a></li>
                                     <li class="nav-item dropdown">
-                                        <a class="nav-link dropdown-toggle" href="#" ><i class="fas fa-list-ul"></i> Chuyên đề</a>
+                                        <a class="nav-link dropdown-toggle" href="{{ route('chuyen_de') }}" ><i class="fas fa-list-ul"></i> Chuyên đề</a>
                                         <div class="dropdown-menu">
                                             <a class="dropdown-item" href="">ERP</a>
                                             <a class="dropdown-item" href="">Phần mềm kế toán</a> 

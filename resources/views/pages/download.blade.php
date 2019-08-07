@@ -8,10 +8,10 @@
     <div class="archive_box">
         <div class="container">
             <div class="row">
-                <div class="col-md-9 content_col archive_col">
+                <div class="col-md-8 content_col archive_col">
                     <h2 class="page-title">Không có bài viết nào</h2>
                 </div>
-                <div class="col-md-3 sidebar_col">
+                <div class="col-md-4 sidebar_col">
                     <div class="sb_content">
                         <h3 class="sb_title" style="padding: 150px 0 0">Video nổi bật</h3>
                         <div class="sb_line"></div>
