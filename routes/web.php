@@ -46,4 +46,11 @@ Route::get('dich_vu',function(){
     return view('pages.dich_vu');
 })->name('dich_vu');
 
+Route::get('chuyen_de',function(){
+    return view('pages.chuyen_de');
+})->name('chuyen_de');
+    
+Route::get('download',function(){
+    return view('pages.download');
+})->name('download');
     
