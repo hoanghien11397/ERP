@@ -211,12 +211,19 @@ img {
 }
 
 .menu_area #nav .nav-link {
+    font-weight: 500;
     color: #040404;
     display: block;
     font-size: 15px;
     -webkit-transition-duration: 500ms;
     transition-duration: 500ms;
-    padding: 0 15px;
+    padding: 0px 9px;
+}  
+
+.menu_area #nav .nav-link .fas , .far{
+
+    color: #1d1a1a7a;
+
 }
 
 .menu_area .dropdown-menu.show {
