@@ -16,27 +16,28 @@
 
                             <div class="collapse navbar-collapse" id="mosh-navbar">
                                 <ul class="navbar-nav animated" id="nav">
-                                    <li class="nav-item active"><a class="nav-link" href="{{ route('gioi_thieu') }}">Về ITG</a></li>
+                                    <li class="nav-item active"><a class="nav-link" href=""><i class="fas fa-home"></i> Trang chủ</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="{{ route('gioi_thieu') }}"><i class="fas fa-globe-asia"></i> Về ITG</a></li>
                                     <li class="nav-item dropdown">
-                                        <a class="nav-link dropdown-toggle" href="{{ route('san_pham') }}" >Sản Phẩm</a>
+                                        <a class="nav-link dropdown-toggle" href="{{ route('san_pham') }}" ><i class="far fa-question-circle"></i> Sản Phẩm</a>
                                         <div class="dropdown-menu">
                                             <a class="dropdown-item" href="">3S ERP 10i</a>
                                             <a class="dropdown-item" href="">3S HRM</a>
                                             <a class="dropdown-item" href="">3S CRM</a>  
                                         </div>
                                     </li>
-                                    <li class="nav-item"><a class="nav-link" href="{{ route('dich_vu') }}">Dịch vụ</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="{{ route('dich_vu') }}"><i class="fas fa-cog"></i> Dịch vụ</a></li>
                                     <li class="nav-item dropdown">
-                                        <a class="nav-link dropdown-toggle" href="{{ route('tin_tuc') }}" >Tin tức</a>
+                                        <a class="nav-link dropdown-toggle" href="{{ route('tin_tuc') }}" ><i class="far fa-newspaper"></i> Tin tức</a>
                                         <div class="dropdown-menu">
                                             <a class="dropdown-item" href="">Tin tức sự kiện</a>
                                             <a class="dropdown-item" href="">Báo chí nói về chúng tôi</a> 
                                         </div>
                                     </li>
-                                    <li class="nav-item"><a class="nav-link" href="{{ route('khach_hang') }}">Khách hàng</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="{{ route('tuyen_dung') }}">Tuyển dụng</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="{{ route('khach_hang') }}"><i class="fas fa-users"></i> Khách hàng</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="{{ route('tuyen_dung') }}"><i class="far fa-newspaper"></i> Tuyển dụng</a></li>
                                     <li class="nav-item dropdown">
-                                        <a class="nav-link dropdown-toggle" href="#" >Chuyên đề</a>
+                                        <a class="nav-link dropdown-toggle" href="#" ><i class="fas fa-list-ul"></i> Chuyên đề</a>
                                         <div class="dropdown-menu">
                                             <a class="dropdown-item" href="">ERP</a>
                                             <a class="dropdown-item" href="">Phần mềm kế toán</a> 
@@ -48,14 +49,14 @@
                                             <a class="dropdown-item" href="">Kế toán, kiểm toán</a> 
                                         </div>
                                     </li>
-                                    <li class="nav-item"><a class="nav-link" href="{{ route('lien_he') }}">Liên hệ</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="{{ route('lien_he') }}"><i class="fas fa-map-marker-alt"></i> Liên hệ</a></li>
                                 </ul>
                                
-                                <div  style="margin-left:25px;">
+                                <div  style="margin-left:17px;">
                                     <a href="#"><i class="fas fa-search"></i></a>
                                 </div> 
                                 <!-- Language -->
-                                <div style="margin-left:150px">
+                                <div style="margin-left:43px">
                                     <a href="#"><img src="https://www.itgvietnam.com/wp-content/plugins/qtranslate-x/flags/vn.png" alt=""></a>
                                     <a href="#"><img src="https://www.itgvietnam.com/wp-content/plugins/qtranslate-x/flags/gb.png" alt=""></a>
                                 </div>
