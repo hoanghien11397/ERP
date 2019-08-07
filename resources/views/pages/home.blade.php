@@ -386,38 +386,5 @@
         </div>
     </section>
 
-    <!-- ***** CAU CHUYEN THANH CONG ***** -->
-
-    <section>
-        <div class="container">
-            <h4 class="text-center">CÂU CHUYỆN THÀNH CÔNG</h4>
-            <div class="row">
-                <div class="col-12">
-                <div class="cauchuyen owl-carousel text-center">
-                        <div class="item">
-                            <img src="https://www.itgvietnam.com/wp-content/uploads/2014/10/nhan-vat-darphaco-01.png" alt="" style="width:auto;margin:0 auto;">
-                            <h6>Ông Tống Viết Phải - Tổng giám đốc DAPHARCO</h6>
-                            <p>“Chiến lược 2018- 2023 DARPHARCO là trở thành top 3 nhà phân phối Dược phẩm lớn nhất Việt Nam. Để đạt được mục tiêu đó chúng tôi cần một phần mềm ERP hiện đại đủ khả năng quản lý tất cả các khâu từ phân phối đầu vào đến đầu ra, từ giá cả đến chất lượng sản phẩm và chúng tôi đã lựa chọn phần mềm 3S ERP.iPHARMA của ITG”</p>
-                        </div>
-                        <div class="item">
-                            <img src="https://www.itgvietnam.com/wp-content/uploads/2014/10/nhan-vat-darphaco-01.png" alt="" style="width:auto;margin:0 auto;">
-                            <h6>Ông Tống Viết Phải - Tổng giám đốc DAPHARCO</h6>
-                            <p>“Chiến lược 2018- 2023 DARPHARCO là trở thành top 3 nhà phân phối Dược phẩm lớn nhất Việt Nam. Để đạt được mục tiêu đó chúng tôi cần một phần mềm ERP hiện đại đủ khả năng quản lý tất cả các khâu từ phân phối đầu vào đến đầu ra, từ giá cả đến chất lượng sản phẩm và chúng tôi đã lựa chọn phần mềm 3S ERP.iPHARMA của ITG”</p>
-                        </div>
-                        <div class="item">
-                            <img src="https://www.itgvietnam.com/wp-content/uploads/2014/10/nhan-vat-darphaco-01.png" alt="" style="width:auto;margin:0 auto;">
-                            <h6>Ông Tống Viết Phải - Tổng giám đốc DAPHARCO</h6>
-                            <p>“Chiến lược 2018- 2023 DARPHARCO là trở thành top 3 nhà phân phối Dược phẩm lớn nhất Việt Nam. Để đạt được mục tiêu đó chúng tôi cần một phần mềm ERP hiện đại đủ khả năng quản lý tất cả các khâu từ phân phối đầu vào đến đầu ra, từ giá cả đến chất lượng sản phẩm và chúng tôi đã lựa chọn phần mềm 3S ERP.iPHARMA của ITG”</p>
-                        </div>
-                        <div class="item">
-                            <img src="https://www.itgvietnam.com/wp-content/uploads/2014/10/nhan-vat-darphaco-01.png" alt="" style="width:auto;margin:0 auto;">
-                            <h6>Ông Tống Viết Phải - Tổng giám đốc DAPHARCO</h6>
-                            <p>“Chiến lược 2018- 2023 DARPHARCO là trở thành top 3 nhà phân phối Dược phẩm lớn nhất Việt Nam. Để đạt được mục tiêu đó chúng tôi cần một phần mềm ERP hiện đại đủ khả năng quản lý tất cả các khâu từ phân phối đầu vào đến đầu ra, từ giá cả đến chất lượng sản phẩm và chúng tôi đã lựa chọn phần mềm 3S ERP.iPHARMA của ITG”</p>
-                        </div>   
-                </div>
-            </div>
-        </div>
-    </section>
-
 
 @endsection
