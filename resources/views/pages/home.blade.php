@@ -68,7 +68,7 @@
             <div class="row justify-content-end">
                 <div class="col-12 col-md-6">
                     <div class="section-heading">
-                        <p>GIẢI PHÁP</p>
+                        <p style="margin-top:15px;">GIẢI PHÁP</p>
                         <h3 style="color:#fff;">GIẢI PHÁP ERP CHUYÊN NGÀNH</h3>
                     </div>
                     <div class="features-content">
