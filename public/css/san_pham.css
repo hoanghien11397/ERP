@@ -1,13 +1,25 @@
-h3.pros_title {
+#sanpham{
+  padding-top: 105px;
+}
+
+#sanpham h3.pros_title {
   text-align: center;
   text-transform: uppercase;
   color: #036894;
   font-weight: 700;
   margin-bottom: 25px;
 }
-p {
+#sanpham p {
   margin: 0 0 10px;
+  color:#050506c7;
 }
-.top-content {
+
+#sanpham .title{
+  font-size: 22px;
+  padding: 14px 0;
+  color: #1b6893;
+}
+
+#sanpham .top-content {
   margin-bottom: 20px;
 }

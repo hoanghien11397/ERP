@@ -4,9 +4,8 @@
 @section('content')
 
 
-
 <!-- ****lien he **** -->
-
+<main id="lienhe">
 <div class="tp-bgimg defaultimg " data-bgcolor="undefined" style="background-repeat: no-repeat; background-image: url(&quot;https://www.itgvietnam.com/wp-content/uploads/2018/06/lien-he.jpg&quot;); background-size: cover; background-position: center center; width: 100%; height: 100%; opacity: 1; visibility: inherit; z-index: 20;"></div>
 <img  src="https://www.itgvietnam.com/wp-content/uploads/2018/06/lien-he.jpg">
 <div class="contact_box1">
@@ -24,6 +23,7 @@
             <div class="col-md-6">
                 <h3 class="col_title">Đăng ký tư vấn Giải pháp và nhận tài liệu miễn phí</h3>
                 <div class="ctf7_box">
+
                     <div role="form" class="wpcf7" id="wpcf7-f2141-o1" lang="vi" dir="ltr">
                         <div class="screen-reader-response"></div>
                             <form action="/lien-he/#wpcf7-f2141-o1" method="post" class="wpcf7-form" novalidate="novalidate">
@@ -48,8 +48,9 @@
                                         <span class="wpcf7-form-control-wrap your-email">
                                             <input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email form-control" aria-required="true" aria-invalid="false" placeholder="Email"style="font-size: 14px"></span> </p>
                                     <p>
-                                        <span class="wpcf7-form-control-wrap your-message">
-                                            <textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea form-control" aria-invalid="false" placeholder="Nội dung"style="font-size: 14px"></textarea></span> </p>
+                                        <div class="form-group">
+                                            <textarea class="form-control" rows="5" id="comment" placeholder="Nội dung"></textarea>
+                                        </div>
                                     <p>
                                         </p>
                                         <div id="cf7sr-5d48d8334e1d5" class="cf7sr-g-recaptcha" data-sitekey="6LcpNmYUAAAAAE1MAxwYKMZTftm_Phevh7Ug7N2B">
@@ -61,10 +62,8 @@
                                         </div>
                                     </form>
                                     </div>                                    
-                                    </div>
+                </div>
             </div>
-            
-            
         </div>
         
     </div>
@@ -102,5 +101,5 @@
             </div>
         </div>
 </div>
-
+</main>
 @endsection

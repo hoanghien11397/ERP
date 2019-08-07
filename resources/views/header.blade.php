@@ -18,7 +18,7 @@
                                 <ul class="navbar-nav animated" id="nav">
                                     <li class="nav-item active"><a class="nav-link" href="{{ route('gioi_thieu') }}">Về ITG</a></li>
                                     <li class="nav-item dropdown">
-                                        <a class="nav-link dropdown-toggle" href="#" >Sản Phẩm</a>
+                                        <a class="nav-link dropdown-toggle" href="{{ route('san_pham') }}" >Sản Phẩm</a>
                                         <div class="dropdown-menu">
                                             <a class="dropdown-item" href="">3S ERP 10i</a>
                                             <a class="dropdown-item" href="">3S HRM</a>
