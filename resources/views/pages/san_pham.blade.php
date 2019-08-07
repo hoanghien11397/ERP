@@ -125,94 +125,41 @@
 
       <div>
         <h3 class="pros_title">
-          <p class="title">Câu chuyện thàn công</p>
+          <p class="title">CÂU CHUYỆN THÀNH CÔNG</p>
         </h3>
 
-         <!-- *****TIN TUC SU KIEN ***** -->
-    <section class="news-event">
-               
-            <div class="col-12">
-                <div class="event owl-carousel">
-                    <div class="item">                  
-                            <a href="">
-                            <div class="cc_thumb">
-                              <img src="https://www.itgvietnam.com/wp-content/uploads/2014/10/nhan-vat-elmich-01.png">
+     <!-- *****CAU CHUYEN THANH CONG ***** -->
+        <section>
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                    <div class="cauchuyen owl-carousel text-center">
+                            <div class="item">
+                                <img src="https://www.itgvietnam.com/wp-content/uploads/2014/10/nhan-vat-darphaco-01.png" alt="" style="width:auto;margin:0 auto;">
+                                <h6>Ông Tống Viết Phải - Tổng giám đốc DAPHARCO</h6>
+                                <p>“Chiến lược 2018- 2023 DARPHARCO là trở thành top 3 nhà phân phối Dược phẩm lớn nhất Việt Nam. Để đạt được mục tiêu đó chúng tôi cần một phần mềm ERP hiện đại đủ khả năng quản lý tất cả các khâu từ phân phối đầu vào đến đầu ra, từ giá cả đến chất lượng sản phẩm và chúng tôi đã lựa chọn phần mềm 3S ERP.iPHARMA của ITG”</p>
                             </div>
-                            <h6>ITG khởi động triển khai giải pháp 3S ERP.iSCM tại K&G Việt Nam</h6>
-                            <p> Ngày 25/6 tại văn phòng công ty CP Đầu tư K&G Việt Nam(K&G), đã diễn ra Lễ Khởi Động Dự Án Triển Khai Giải Pháp Quản Trị Doanh Nghiệp 3S.</p>
-                            </a>
-                    </div>
-
-                    <div class="item">                  
-                            <a href="">
-                            <div class="cc_thumb">
-                            <img src="https://www.itgvietnam.com/wp-content/uploads/2018/06/person2.jpg">
+                            <div class="item">
+                                <img src="https://www.itgvietnam.com/wp-content/uploads/2014/10/nhan-vat-darphaco-01.png" alt="" style="width:auto;margin:0 auto;">
+                                <h6>Ông Tống Viết Phải - Tổng giám đốc DAPHARCO</h6>
+                                <p>“Chiến lược 2018- 2023 DARPHARCO là trở thành top 3 nhà phân phối Dược phẩm lớn nhất Việt Nam. Để đạt được mục tiêu đó chúng tôi cần một phần mềm ERP hiện đại đủ khả năng quản lý tất cả các khâu từ phân phối đầu vào đến đầu ra, từ giá cả đến chất lượng sản phẩm và chúng tôi đã lựa chọn phần mềm 3S ERP.iPHARMA của ITG”</p>
                             </div>
-                            <h6>ITG khởi động triển khai giải pháp 3S ERP.iSCM tại K&G Việt Nam</h6>
-                            <p> Ngày 25/6 tại văn phòng công ty CP Đầu tư K&G Việt Nam(K&G), đã diễn ra Lễ Khởi Động Dự Án Triển Khai Giải Pháp Quản Trị Doanh Nghiệp 3S.</p>
-                            </a>
-                    </div>
-
-                    <div class="item">                  
-                            <a href="">
-                            <div class="cc_thumb">
-                              <img src="https://www.itgvietnam.com/wp-content/uploads/2014/10/nhan-vat-nam-duoc-01.png">
+                            <div class="item">
+                                <img src="https://www.itgvietnam.com/wp-content/uploads/2014/10/nhan-vat-darphaco-01.png" alt="" style="width:auto;margin:0 auto;">
+                                <h6>Ông Tống Viết Phải - Tổng giám đốc DAPHARCO</h6>
+                                <p>“Chiến lược 2018- 2023 DARPHARCO là trở thành top 3 nhà phân phối Dược phẩm lớn nhất Việt Nam. Để đạt được mục tiêu đó chúng tôi cần một phần mềm ERP hiện đại đủ khả năng quản lý tất cả các khâu từ phân phối đầu vào đến đầu ra, từ giá cả đến chất lượng sản phẩm và chúng tôi đã lựa chọn phần mềm 3S ERP.iPHARMA của ITG”</p>
                             </div>
-                            <h6>ITG khởi động triển khai giải pháp 3S ERP.iSCM tại K&G Việt Nam</h6>
-                            <p> Ngày 25/6 tại văn phòng công ty CP Đầu tư K&G Việt Nam(K&G), đã diễn ra Lễ Khởi Động Dự Án Triển Khai Giải Pháp Quản Trị Doanh Nghiệp 3S.</p>
-                            </a>
+                            <div class="item">
+                                <img src="https://www.itgvietnam.com/wp-content/uploads/2014/10/nhan-vat-darphaco-01.png" alt="" style="width:auto;margin:0 auto;">
+                                <h6>Ông Tống Viết Phải - Tổng giám đốc DAPHARCO</h6>
+                                <p>“Chiến lược 2018- 2023 DARPHARCO là trở thành top 3 nhà phân phối Dược phẩm lớn nhất Việt Nam. Để đạt được mục tiêu đó chúng tôi cần một phần mềm ERP hiện đại đủ khả năng quản lý tất cả các khâu từ phân phối đầu vào đến đầu ra, từ giá cả đến chất lượng sản phẩm và chúng tôi đã lựa chọn phần mềm 3S ERP.iPHARMA của ITG”</p>
+                            </div>   
                     </div>
-
-                    <div class="item">                  
-                            <a href="">
-                            <div class="cc_thumb">
-                              <img src="https://www.itgvietnam.com/wp-content/uploads/2014/10/nhan-vat-darphaco-01.png">
-                            </div>
-                            <h6>ITG khởi động triển khai giải pháp 3S ERP.iSCM tại K&G Việt Nam</h6>
-                            <p> Ngày 25/6 tại văn phòng công ty CP Đầu tư K&G Việt Nam(K&G), đã diễn ra Lễ Khởi Động Dự Án Triển Khai Giải Pháp Quản Trị Doanh Nghiệp 3S.</p>
-                            </a>
-                    </div>
-
-                    <div class="item">                  
-                            <a href="">
-                            <div class="cc_thumb">
-                              <img src="https://www.itgvietnam.com/wp-content/uploads/2018/06/person1.jpg">
-                            </div>
-                            <h6>ITG khởi động triển khai giải pháp 3S ERP.iSCM tại K&G Việt Nam</h6>
-                            <p> Ngày 25/6 tại văn phòng công ty CP Đầu tư K&G Việt Nam(K&G), đã diễn ra Lễ Khởi Động Dự Án Triển Khai Giải Pháp Quản Trị Doanh Nghiệp 3S.</p>
-                            </a>
-                    </div>
-
-         <!-- *****CAU CHUYEN THANH CONG ***** -->
-         <section>
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                <div class="cauchuyen owl-carousel text-center">
-                        <div class="item">
-                            <img src="https://www.itgvietnam.com/wp-content/uploads/2014/10/nhan-vat-darphaco-01.png" alt="" style="width:auto;margin:0 auto;">
-                            <h6>Ông Tống Viết Phải - Tổng giám đốc DAPHARCO</h6>
-                            <p>“Chiến lược 2018- 2023 DARPHARCO là trở thành top 3 nhà phân phối Dược phẩm lớn nhất Việt Nam. Để đạt được mục tiêu đó chúng tôi cần một phần mềm ERP hiện đại đủ khả năng quản lý tất cả các khâu từ phân phối đầu vào đến đầu ra, từ giá cả đến chất lượng sản phẩm và chúng tôi đã lựa chọn phần mềm 3S ERP.iPHARMA của ITG”</p>
-                        </div>
-                        <div class="item">
-                            <img src="https://www.itgvietnam.com/wp-content/uploads/2014/10/nhan-vat-darphaco-01.png" alt="" style="width:auto;margin:0 auto;">
-                            <h6>Ông Tống Viết Phải - Tổng giám đốc DAPHARCO</h6>
-                            <p>“Chiến lược 2018- 2023 DARPHARCO là trở thành top 3 nhà phân phối Dược phẩm lớn nhất Việt Nam. Để đạt được mục tiêu đó chúng tôi cần một phần mềm ERP hiện đại đủ khả năng quản lý tất cả các khâu từ phân phối đầu vào đến đầu ra, từ giá cả đến chất lượng sản phẩm và chúng tôi đã lựa chọn phần mềm 3S ERP.iPHARMA của ITG”</p>
-                        </div>
-                        <div class="item">
-                            <img src="https://www.itgvietnam.com/wp-content/uploads/2014/10/nhan-vat-darphaco-01.png" alt="" style="width:auto;margin:0 auto;">
-                            <h6>Ông Tống Viết Phải - Tổng giám đốc DAPHARCO</h6>
-                            <p>“Chiến lược 2018- 2023 DARPHARCO là trở thành top 3 nhà phân phối Dược phẩm lớn nhất Việt Nam. Để đạt được mục tiêu đó chúng tôi cần một phần mềm ERP hiện đại đủ khả năng quản lý tất cả các khâu từ phân phối đầu vào đến đầu ra, từ giá cả đến chất lượng sản phẩm và chúng tôi đã lựa chọn phần mềm 3S ERP.iPHARMA của ITG”</p>
-                        </div>
-                        <div class="item">
-                            <img src="https://www.itgvietnam.com/wp-content/uploads/2014/10/nhan-vat-darphaco-01.png" alt="" style="width:auto;margin:0 auto;">
-                            <h6>Ông Tống Viết Phải - Tổng giám đốc DAPHARCO</h6>
-                            <p>“Chiến lược 2018- 2023 DARPHARCO là trở thành top 3 nhà phân phối Dược phẩm lớn nhất Việt Nam. Để đạt được mục tiêu đó chúng tôi cần một phần mềm ERP hiện đại đủ khả năng quản lý tất cả các khâu từ phân phối đầu vào đến đầu ra, từ giá cả đến chất lượng sản phẩm và chúng tôi đã lựa chọn phần mềm 3S ERP.iPHARMA của ITG”</p>
-                        </div>   
                 </div>
+
             </div>
-        </div>
-    </section>
+        </section>
+
 
       </div>
 
