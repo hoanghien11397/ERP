@@ -58,6 +58,7 @@ a {
     height: 60px;
     overflow: hidden;
     margin-bottom: 15px;
+    font-size: 14px;
 }
 .excerpt {
     text-align: justify;
@@ -201,6 +202,7 @@ div.wpcf7 .screen-reader-response {
 }
 p {
     margin: 0 0 10px;
+    font-size: 14px;
 }
 .ct_box input.wpcf7-form-control.wpcf7-submit {
     background: #036893;
@@ -209,4 +211,16 @@ p {
     color: #fff;
     font-weight: 700;
     border-radius: 4px;
+}
+.team-area1 {
+    /* padding-top: 100px; */
+    background-color: #f9f9ff;
+}
+.exp-owl img {
+    padding: 15px 0 0;
+    display: block;
+    width: unset!important;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
 }

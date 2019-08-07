@@ -4,7 +4,7 @@
 @section('content')
 
 <body>
-    <img src="https://www.itgvietnam.com/wp-content/uploads/2018/08/gioi-thieu-2.jpg" alt="">
+    <img src="https://www.itgvietnam.com/wp-content/uploads/2018/08/gioi-thieu-2.jpg" alt="" style="margin-bottom: 20px;">
 
     <div class="archive_box">
         <div class="container">
@@ -146,262 +146,175 @@
                                     <li class=""> <a href="https://www.itgvietnam.com/category/dien-dan/scm/" title="SCM">SCM</a></li>
                                 </ul>
                             </div>
-                    </div>
-                        {{-- <div class="sb_box sb_exp">
-              <h3 class="exp_title">Trải nghiệm khách hàng</h3>
-              <div class="exp_slider">
-                                           <div class="exp-owl owl-carousel owl-loaded owl-drag">
-                               
-                            <div class="owl-stage-outer"><div class="owl-stage" style="transition: all 0.25s ease 0s;width: 3396px;"><div class="owl-item cloned" style="width: 278px;margin-right: 5px;"><div class="item">
-                          <div class="thumb_sb">
-                              <img src="https://www.itgvietnam.com/wp-content/uploads/2014/10/nhan-vat-elmich-01.png">
-                          </div>
-                          <div class="exp_text">
-                            <p></p><p>“Quan điểm của tôi trong quản trị doanh nghiệp là cần làm chuẩn hóa ngay từ đầu, vì vậy ngay khi Tập đoàn Elmich thành lập tại Việt Nam, chúng tôi đã đầu tư hệ thống ERP. Và lựa chọn ITG là nhà cung cấp giải pháp là một quyết định đúng đắn. ITG là đối tác đáng tin cậy và lâu dài.”</p>
-        <p></p>
-                          </div>
-                      </div>
-                    </div>
-                    <div class="owl-item cloned" style="width: 278px; margin-right: 5px;"><div class="item">
-                          <div class="thumb_sb">
-                              <img src="https://www.itgvietnam.com/wp-content/uploads/2018/06/person3.jpg">
-                          </div>
-                          <div class="exp_text">
-                            <p></p><p>“Giải pháp 3S ERP đã giúp Sivico nói chung, hoạt động khá hiệu quả, cá nhân tôi nói riêng có được cái nhìn từ tổng quan đến chi tiết về hoạt động SXKD và có những quyết sách nhanh chóng, chính xác như: trong công tác hoạch định và mua sắm nguyên vật liệu, lập kế hoạch sản xuất, theo dõi tiến độ sx, tiến độ thực hiện đơn hàng, kiểm soát chất lượng SP, kiểm soát chi phí, …tất cả đều chuẩn mực hơn, rõ ràng hơn và đặc biệt tiết kiệm thời gian hơn rất nhiều”</p>
-        <p></p>
-                          </div>
-                      </div></div><div class="owl-item cloned" style="width: 278px; margin-right: 5px;"><div class="item">
-                          <div class="thumb_sb">
-                              <img src="https://www.itgvietnam.com/wp-content/uploads/2018/06/person1.jpg">
-                          </div>
-                          <div class="exp_text">
-                            <p></p><p>“3S ERP là một giải pháp quản trị doanh nghiệp toàn diện, kết nối toàn bộ hoạt động kinh doanh và các phòng ban theo các quy trình tác nghiệp khép kín, từ quản lý thị trường, khách hàng tiềm năng đến hoạt động bán hàng, hoạt động cung ứng đến tài chính kế toán và quản trị nguồn nhân lực.”</p>
-        <p></p>
-                          </div>
-                      </div></div><div class="owl-item" style="width: 278px; margin-right: 5px;"><div class="item">
-                          <div class="thumb_sb">
-                              <img src="https://www.itgvietnam.com/wp-content/uploads/2018/06/person2.jpg">
-                          </div>
-                          <div class="exp_text">
-                            <p></p><p>“Chúng tôi đã cùng ITG xây dựng và triển khai một hệ thống quản trị doanh nghiệp (ERP) chưa từng có trong ngành bao bì ở Việt Nam. Trước đây, Goldsun đã từng triển khai cả giải pháp ERP nội và ngoại, nhưng phải đến lần này hệ thống mới thực sự đáp ứng được nhu cầu quản trị, đặc biệt là phân hệ quản trị sản xuất”</p>
-        <p></p>
-                          </div>
-                      </div></div><div class="owl-item" style="width: 278px; margin-right: 5px;"><div class="item">
-                          <div class="thumb_sb">
-                              <img src="https://www.itgvietnam.com/wp-content/uploads/2014/10/nhan-vat-darphaco-01.png">
-                          </div>
-                          <div class="exp_text">
-                            <p></p><p>“Chiến lược 2018- 2023 DARPHARCO là trở thành top 3 nhà phân phối Dược phẩm lớn nhất Việt Nam. Để đạt được mục tiêu đó chúng tôi cần một phần mềm ERP hiện đại đủ khả năng quản lý tất cả các khâu từ phân phối đầu vào đến đầu ra, từ giá cả đến chất lượng sản phẩm và chúng tôi đã lựa chọn phần mềm 3S ERP.iPHARMA của ITG”</p>
-        <p></p>
-                          </div>
-                      </div></div><div class="owl-item" style="width: 278px; margin-right: 5px;"><div class="item">
-                          <div class="thumb_sb">
-                              <img src="https://www.itgvietnam.com/wp-content/uploads/2014/10/nhan-vat-nam-duoc-01.png">
-                          </div>
-                          <div class="exp_text">
-                            <p></p><p>“Điểm nhấn ưu việt của hệ thống quản lý 3S ERP là ở tính cập nhật, cảnh báo tức thì khi có các nghiệp vụ phát sinh trong doanh nghiệp sẽ giúp người quản lý hoàn toàn có thể truy xuất ngay được chất lượng sản phẩm và quá trình sản xuất mắc lỗi từ đâu và có những quyết định nhanh chóng, kịp thời, tránh tốn kém cho doanh nghiệp”</p>
-        <p></p>
-                          </div>
-                      </div></div><div class="owl-item" style="width: 278px; margin-right: 5px;"><div class="item">
-                          <div class="thumb_sb">
-                              <img src="https://www.itgvietnam.com/wp-content/uploads/2014/10/nhan-vat-elmich-01.png">
-                          </div>
-                          <div class="exp_text">
-                            <p></p><p>“Quan điểm của tôi trong quản trị doanh nghiệp là cần làm chuẩn hóa ngay từ đầu, vì vậy ngay khi Tập đoàn Elmich thành lập tại Việt Nam, chúng tôi đã đầu tư hệ thống ERP. Và lựa chọn ITG là nhà cung cấp giải pháp là một quyết định đúng đắn. ITG là đối tác đáng tin cậy và lâu dài.”</p>
-        <p></p>
-                          </div>
-                      </div></div><div class="owl-item" style="width: 278px; margin-right: 5px;"><div class="item">
-                          <div class="thumb_sb">
-                              <img src="https://www.itgvietnam.com/wp-content/uploads/2018/06/person3.jpg">
-                          </div>
-                          <div class="exp_text">
-                            <p></p><p>“Giải pháp 3S ERP đã giúp Sivico nói chung, hoạt động khá hiệu quả, cá nhân tôi nói riêng có được cái nhìn từ tổng quan đến chi tiết về hoạt động SXKD và có những quyết sách nhanh chóng, chính xác như: trong công tác hoạch định và mua sắm nguyên vật liệu, lập kế hoạch sản xuất, theo dõi tiến độ sx, tiến độ thực hiện đơn hàng, kiểm soát chất lượng SP, kiểm soát chi phí, …tất cả đều chuẩn mực hơn, rõ ràng hơn và đặc biệt tiết kiệm thời gian hơn rất nhiều”</p>
-        <p></p>
-                          </div>
-                      </div></div><div class="owl-item active" style="width: 278px; margin-right: 5px;"><div class="item">
-                          <div class="thumb_sb">
-                              <img src="https://www.itgvietnam.com/wp-content/uploads/2018/06/person1.jpg">
-                          </div>
-                          <div class="exp_text">
-                            <p></p><p>“3S ERP là một giải pháp quản trị doanh nghiệp toàn diện, kết nối toàn bộ hoạt động kinh doanh và các phòng ban theo các quy trình tác nghiệp khép kín, từ quản lý thị trường, khách hàng tiềm năng đến hoạt động bán hàng, hoạt động cung ứng đến tài chính kế toán và quản trị nguồn nhân lực.”</p>
-        <p></p>
-                          </div>
-                      </div></div><div class="owl-item cloned" style="width: 278px; margin-right: 5px;"><div class="item">
-                          <div class="thumb_sb">
-                              <img src="https://www.itgvietnam.com/wp-content/uploads/2018/06/person2.jpg">
-                          </div>
-                          <div class="exp_text">
-                            <p></p><p>“Chúng tôi đã cùng ITG xây dựng và triển khai một hệ thống quản trị doanh nghiệp (ERP) chưa từng có trong ngành bao bì ở Việt Nam. Trước đây, Goldsun đã từng triển khai cả giải pháp ERP nội và ngoại, nhưng phải đến lần này hệ thống mới thực sự đáp ứng được nhu cầu quản trị, đặc biệt là phân hệ quản trị sản xuất”</p>
-        <p></p>
-                          </div>
-                      </div></div><div class="owl-item cloned" style="width: 278px; margin-right: 5px;"><div class="item">
-                          <div class="thumb_sb">
-                              <img src="https://www.itgvietnam.com/wp-content/uploads/2014/10/nhan-vat-darphaco-01.png">
-                          </div>
-                          <div class="exp_text">
-                            <p></p><p>“Chiến lược 2018- 2023 DARPHARCO là trở thành top 3 nhà phân phối Dược phẩm lớn nhất Việt Nam. Để đạt được mục tiêu đó chúng tôi cần một phần mềm ERP hiện đại đủ khả năng quản lý tất cả các khâu từ phân phối đầu vào đến đầu ra, từ giá cả đến chất lượng sản phẩm và chúng tôi đã lựa chọn phần mềm 3S ERP.iPHARMA của ITG”</p>
-        <p></p>
-                          </div>
-                      </div></div><div class="owl-item cloned" style="width: 278px; margin-right: 5px;"><div class="item">
-                          <div class="thumb_sb">
-                              <img src="https://www.itgvietnam.com/wp-content/uploads/2014/10/nhan-vat-nam-duoc-01.png">
-                          </div>
-                          <div class="exp_text">
-                            <p></p><p>“Điểm nhấn ưu việt của hệ thống quản lý 3S ERP là ở tính cập nhật, cảnh báo tức thì khi có các nghiệp vụ phát sinh trong doanh nghiệp sẽ giúp người quản lý hoàn toàn có thể truy xuất ngay được chất lượng sản phẩm và quá trình sản xuất mắc lỗi từ đâu và có những quyết định nhanh chóng, kịp thời, tránh tốn kém cho doanh nghiệp”</p>
-        <p></p>
-                          </div>
-                      </div></div></div></div><div class="owl-nav"><div class="owl-prev"><i class="fa fa-angle-left"></i></div><div class="owl-next"><i class="fa fa-angle-right"></i></div></div><div class="owl-dots"><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot active"><span></span></div></div></div>
-              </div>
-            </div>
+                        </div>
+                        <div class="sb_box sb_exp">
+                            <h3 class="exp_title">Trải nghiệm khách hàng</h3>
+                            <div class="exp_slider">
+                                <div class="exp-owl owl-carousel owl-loaded owl-drag">
 
-            <section class="team-area section-gap" id="team">
-                <div class="container">					
-                    <div class="row justify-content-center d-flex align-items-center">
-                        <div class="col-12">
-                            <div class="client-slider owl-carousel">
-                                <div class="item">
-                                    <div class="single-team">
-                                        <div class="thumb">
-                                            <img class="img-fluid" src="https://www.itgvietnam.com/wp-content/uploads/2018/09/Trần-Hoàn-Sinh-TGĐ-Công-ty-CP-Mỹ-phẩm-Salonzo-01-min-min.jpg" alt="">
-                                            <div class="align-items-center justify-content-center d-flex">
-                                                <p class="text">"3S ERP là một giải pháp quản trị doanh nghiệp toàn diện, kết nối toàn bộ hoạt động kinh doanh và các phòng ban theo các quy trình tác nghiệp khép kín, từ quản lý thị trường, khách hàng tiềm năng đến hoạt động bán hàng, hoạt động cung ứng đến tài chính kế toán và quản trị nguồn nhân lực.”</p>
+                                    <div class="owl-stage-outer">
+                                        <div class="owl-stage" style="transition: all 0.25s ease 0s;width: 3396px;">
+                                            <div class="owl-item cloned" style="width: 278px;margin-right: 5px;">
+                                                <div class="item">
+                                                    <section class="team-area1 section-gap" id="team">
+                                                        <div class="container">
+                                                            <div class="row justify-content-center d-flex align-items-center">
+                                                                <div class="col-12">
+                                                                    <div class="one-carousel owl-carousel">
+                                                                        <div class="item">
+                                                                            <div class="single-team">
+                                                                                <div class="thumb">
+                                                                                    <img class="img-fluid" src="https://www.itgvietnam.com/wp-content/uploads/2014/10/nhan-vat-nam-duoc-01.png" alt="">
+
+                                                                                </div>
+                                                                                <div class="meta-text mt-30 text-center">
+                                                                                    <p>“Giải pháp 3S ERP đã giúp Sivico nói chung, hoạt động khá hiệu quả, cá nhân tôi nói riêng có được cái nhìn từ tổng quan đến chi tiết về hoạt động SXKD và có những quyết sách nhanh chóng, chính xác như: trong công tác hoạch định và mua sắm nguyên vật liệu, lập kế hoạch sản xuất"</p>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="item">
+                                                                            <div class="single-team">
+                                                                                <div class="thumb">
+                                                                                    <img class="img-fluid" src="https://www.itgvietnam.com/wp-content/uploads/2014/10/nhan-vat-elmich-01.png" alt="">
+
+                                                                                </div>
+                                                                                <div class="meta-text mt-30 text-center">
+                                                                                    <p>“Giải pháp 3S ERP đã giúp Sivico nói chung, hoạt động khá hiệu quả, cá nhân tôi nói riêng có được cái nhìn từ tổng quan đến chi tiết về hoạt động SXKD và có những quyết sách nhanh chóng, chính xác như: trong công tác hoạch định và mua sắm nguyên vật liệu, lập kế hoạch sản xuất"</p>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="item">
+                                                                            <div class="single-team">
+                                                                                <div class="thumb">
+                                                                                    <img class="img-fluid" src="https://www.itgvietnam.com/wp-content/uploads/2018/06/person1.jpg" alt="">
+
+                                                                                </div>
+                                                                                <div class="meta-text mt-30 text-center">
+                                                                                    <p>“Giải pháp 3S ERP đã giúp Sivico nói chung, hoạt động khá hiệu quả, cá nhân tôi nói riêng có được cái nhìn từ tổng quan đến chi tiết về hoạt động SXKD và có những quyết sách nhanh chóng, chính xác như: trong công tác hoạch định và mua sắm nguyên vật liệu, lập kế hoạch sản xuất"</p>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="item">
+                                                                            <div class="single-team">
+                                                                                <div class="thumb">
+                                                                                    <img class="img-fluid" src="https://www.itgvietnam.com/wp-content/uploads/2018/06/person2.jpg" alt="">
+
+                                                                                </div>
+                                                                                <div class="meta-text mt-30 text-center">
+                                                                                    <p>“Giải pháp 3S ERP đã giúp Sivico nói chung, hoạt động khá hiệu quả, cá nhân tôi nói riêng có được cái nhìn từ tổng quan đến chi tiết về hoạt động SXKD và có những quyết sách nhanh chóng, chính xác như: trong công tác hoạch định và mua sắm nguyên vật liệu, lập kế hoạch sản xuất"</p>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="item">
+                                                                            <div class="single-team">
+                                                                                <div class="thumb">
+                                                                                    <img class="img-fluid" src="https://www.itgvietnam.com/wp-content/uploads/2018/06/person1.jpg" alt="">
+
+                                                                                </div>
+                                                                                <div class="meta-text mt-30 text-center">
+                                                                                    <p>“Giải pháp 3S ERP đã giúp Sivico nói chung, hoạt động khá hiệu quả, cá nhân tôi nói riêng có được cái nhìn từ tổng quan đến chi tiết về hoạt động SXKD và có những quyết sách nhanh chóng, chính xác như: trong công tác hoạch định và mua sắm nguyên vật liệu, lập kế hoạch sản xuất"</p>
+                                                                                </div>
+
+                                                                            </div>
+                                                                        </div>
+
+                                                                    </div>
+                                                                </div>
+
+                                                            </div>
+                                                        </div>
+                                                    </section>
+                                                </div>
                                             </div>
-                                        </div>
-                                        <div class="meta-text mt-30 text-center">
-                                            <h5>Ông: Trần Hoàn Sinh</h5>
-                                            <p style="font-size:12px">TGĐ Công ty CP Mỹ phẩm Salonzo</p>									    	
                                         </div>
                                     </div>
                                 </div>
-                                <div class="item">
-                                    <div class="single-team">
-                                        <div class="thumb">
-                                            <img class="img-fluid" src="https://www.itgvietnam.com/wp-content/uploads/2018/09/Ông-Hòa-Quang-Thiệp-–-TGĐ-Công-ty-CP-Bao-Bì-Sivico-01-min-1-min.jpg" alt="">
-                                            <div class="align-items-center justify-content-center d-flex">
-                                                <p class="text">“Giải pháp 3S ERP đã giúp Sivico nói chung, cá nhân tôi nói riêng có được cái nhìn từ tổng quan đến chi tiết về hoạt động SXKD và có những quyết sách nhanh chóng, chính xác như:  lập kế hoạch sản xuất, theo dõi tiến độ sx, …tất cả đều chuẩn mực hơn, rõ ràng hơn và đặc biệt tiết kiệm thời gian hơn rất nhiều”</p>
-                                            </div>
-                                        </div>
-                                        <div class="meta-text mt-30 text-center">
-                                            <h5>Ông Hòa Quang Thiệp</h5>
-                                            <p style="font-size:12px">TGĐ Công ty CP Bao Bì Sivico</p>									    	
-                                        </div>
-                                    </div>
+                                <div class="owl-nav">
+                                    <div class="owl-prev"><i class="fa fa-angle-left"></i></div>
+                                    <div class="owl-next"><i class="fa fa-angle-right"></i></div>
                                 </div>
-                                <div class="item">
-                                    <div class="single-team">
-                                        <div class="thumb">
-                                            <img class="img-fluid" src="https://www.itgvietnam.com/wp-content/uploads/2018/09/nxkh-nam-duoc-01-min-min.jpg" alt="">
-                                            <div class="align-items-center justify-content-center d-flex">
-                                                <p class="text">“Điểm nhấn ưu việt của hệ thống quản lý 3S ERP là ở tính cập nhật, cảnh báo tức thì khi có các nghiệp vụ phát sinh trong doanh nghiệp sẽ giúp người quản lý hoàn toàn có thể truy xuất ngay được chất lượng sản phẩm và quá trình sản xuất mắc lỗi từ đâu và có những quyết định nhanh chóng, kịp thời, tránh tốn kém cho doanh nghiệp”</p>
-                                            </div>
-                                        </div>
-                                        <div class="meta-text mt-30 text-center">
-                                            <h5>Ông Phạm Văn Đông</h5>
-                                            <p style="font-size:12px">Giám đốc Công ty Nam Dược</p>									    	
-                                        </div>
-                                    </div>	
+                                <div class="owl-dots">
+                                    <div class="owl-dot"><span></span></div>
+                                    <div class="owl-dot"><span></span></div>
+                                    <div class="owl-dot"><span></span></div>
+                                    <div class="owl-dot"><span></span></div>
+                                    <div class="owl-dot"><span></span></div>
+                                    <div class="owl-dot active"><span></span></div>
                                 </div>
-                                <div class="item">
-                                    <div class="single-team">
-                                        <div class="thumb">
-                                            <img class="img-fluid" src="https://www.itgvietnam.com/wp-content/uploads/2018/09/nxkh-goldsun-1-min.jpg" alt="">
-                                            <div class="align-items-center justify-content-center d-flex">
-                                                <p class="text">"Chúng tôi đã cùng ITG xây dựng và triển khai một hệ thống quản trị doanh nghiệp (ERP) chưa từng có trong ngành bao bì ở Việt Nam. Trước đây, Goldsun đã từng triển khai cả giải pháp phần mềm ERP nội và ngoại, nhưng phải đến lần này hệ thống mới thực sự đáp ứng được nhu cầu quản trị, đặc biệt là phân hệ quản trị sản xuất..."</p>
-                                            </div>
-                                        </div>
-                                        <div class="meta-text mt-30 text-center">
-                                            <h5>Bà: Nguyễn Khánh Ly</h5>
-                                            <p style="font-size:12px">Phó TGĐ  Điều hành Công ty Bao bì Goldsun</p>									    	
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="item">
-                                    <div class="single-team">
-                                        <div class="thumb">
-                                            <img class="img-fluid" src="https://www.itgvietnam.com/wp-content/uploads/2018/09/Trần-Hoàn-Sinh-TGĐ-Công-ty-CP-Mỹ-phẩm-Salonzo-01-min-min.jpg" alt="">
-                                            <div class="align-items-center justify-content-center d-flex">
-                                                <p class="text">"3S ERP là một giải pháp quản trị doanh nghiệp toàn diện, kết nối toàn bộ hoạt động kinh doanh và các phòng ban theo các quy trình tác nghiệp khép kín, từ quản lý thị trường, khách hàng tiềm năng đến hoạt động bán hàng, hoạt động cung ứng đến tài chính kế toán và quản trị nguồn nhân lực.”</p>
-                                            </div>
-                                        </div>
-                                        <div class="meta-text mt-30 text-center">
-                                            <h5>Ông: Trần Hoàn Sinh</h5>
-                                            <p style="font-size:12px">TGĐ Công ty CP Mỹ phẩm Salonzo</p>									    	
-                                        </div>
-                                    </div>
-                                </div>                       
-                        
                             </div>
                         </div>
-                
                     </div>
-                </div>	
-            </section>
 
-            <div class="sb_box sb_contact list_dv">
-                  <h3 class="sb_ct_title">Đăng ký Email để nhận bài viết</h3>
-                  <div class="ct_box">
-                                <div role="form" class="wpcf7" id="wpcf7-f7563-o1" lang="vi" dir="ltr">
-        <div class="screen-reader-response"></div>
-        <form action="/category/dien-dan/industries/#wpcf7-f7563-o1" method="post" class="wpcf7-form" novalidate="novalidate">
-        <div style="display: none;">
-        <input type="hidden" name="_wpcf7" value="7563">
-        <input type="hidden" name="_wpcf7_version" value="5.1.3">
-        <input type="hidden" name="_wpcf7_locale" value="vi">
-        <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f7563-o1">
-        <input type="hidden" name="_wpcf7_container_post" value="0">
-        </div>
-        <p><span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email form-control" aria-required="true" aria-invalid="false" placeholder="Email"></span> </p>
-        <p><input type="submit" value="Gửi" class="wpcf7-form-control wpcf7-submit"><span class="ajax-loader"></span></p>
-        <div class="wpcf7-response-output wpcf7-display-none"></div></form></div>                      </div>
-            </div>
-        </div>
+
+
+                    <div class="sb_box sb_contact list_dv">
+                        <h3 class="sb_ct_title">Đăng ký Email để nhận bài viết</h3>
+                        <div class="ct_box">
+                            <div role="form" class="wpcf7" id="wpcf7-f7563-o1" lang="vi" dir="ltr">
+                                <div class="screen-reader-response"></div>
+                                <form action="/category/dien-dan/industries/#wpcf7-f7563-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+                                    <div style="display: none;">
+                                        <input type="hidden" name="_wpcf7" value="7563">
+                                        <input type="hidden" name="_wpcf7_version" value="5.1.3">
+                                        <input type="hidden" name="_wpcf7_locale" value="vi">
+                                        <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f7563-o1">
+                                        <input type="hidden" name="_wpcf7_container_post" value="0">
+                                    </div>
+                                    <p><span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email form-control" aria-required="true" aria-invalid="false" placeholder="Email"></span> </p>
+                                    <p><input type="submit" value="Gửi" class="wpcf7-form-control wpcf7-submit"><span class="ajax-loader"></span></p>
+                                    <div class="wpcf7-response-output wpcf7-display-none"></div>
+                                </form>
+                            </div>
                         </div>
-                                        
                     </div>
                 </div>
             </div>
 
-            <!-- KHÁCH HÀNG TIÊU BIỂU -->
+        </div>
+    </div>
+    </div>
 
-            <section class="mosh-clients-area section_padding_100 clearfix" style="
+    <!-- KHÁCH HÀNG TIÊU BIỂU -->
+
+    <section class="mosh-clients-area section_padding_100 clearfix" style="
             background: #f9fafa;">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-12">
-                            <div class="section-heading text-center">
-                                <h3>KHÁCH HÀNG TIÊU BIỂU</h3>
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="section-heading text-center">
+                        <h3>KHÁCH HÀNG TIÊU BIỂU</h3>
+                    </div>
+                </div>
+                <div class="col-12">
+                    <div class="">
+                        <div class="clients owl-carousel">
+                            <div class="item">
+                                <img src="https://www.itgvietnam.com/wp-content/uploads/2018/06/Giai-phap-ERP-cho-Elmich-Vietnam-1.png" alt="">
                             </div>
-                        </div>
-                        <div class="col-12">
-                            <div class="">
-                            <div class="clients owl-carousel">
-                                <div class="item">
-                                    <img src="https://www.itgvietnam.com/wp-content/uploads/2018/06/Giai-phap-ERP-cho-Elmich-Vietnam-1.png" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="https://www.itgvietnam.com/wp-content/uploads/2018/07/hataphar.png" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="https://www.itgvietnam.com/wp-content/uploads/2018/07/Cong-ty-co-phan-nam-duoc-e1532914292967.jpg" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="https://www.itgvietnam.com/wp-content/uploads/2018/09/ERP-cho-My-pham-Salonzo-1-min.jpg" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="https://www.itgvietnam.com/wp-content/uploads/2018/06/ERP-cho-sieu-thi-dien-may-CPN.png" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="https://www.itgvietnam.com/wp-content/uploads/2018/07/Cong-ty-co-phan-nam-duoc-e1532914292967.jpg" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="https://www.itgvietnam.com/wp-content/uploads/2018/07/hataphar.png" alt="">
-                                </div>
-                                
+                            <div class="item">
+                                <img src="https://www.itgvietnam.com/wp-content/uploads/2018/07/hataphar.png" alt="">
                             </div>
+                            <div class="item">
+                                <img src="https://www.itgvietnam.com/wp-content/uploads/2018/07/Cong-ty-co-phan-nam-duoc-e1532914292967.jpg" alt="">
                             </div>
+                            <div class="item">
+                                <img src="https://www.itgvietnam.com/wp-content/uploads/2018/09/ERP-cho-My-pham-Salonzo-1-min.jpg" alt="">
+                            </div>
+                            <div class="item">
+                                <img src="https://www.itgvietnam.com/wp-content/uploads/2018/06/ERP-cho-sieu-thi-dien-may-CPN.png" alt="">
+                            </div>
+                            <div class="item">
+                                <img src="https://www.itgvietnam.com/wp-content/uploads/2018/07/Cong-ty-co-phan-nam-duoc-e1532914292967.jpg" alt="">
+                            </div>
+                            <div class="item">
+                                <img src="https://www.itgvietnam.com/wp-content/uploads/2018/07/hataphar.png" alt="">
+                            </div>
+
                         </div>
                     </div>
                 </div>
-            </section>
+            </div>
+        </div>
+    </section>
 
-            @endsection
+    @endsection
