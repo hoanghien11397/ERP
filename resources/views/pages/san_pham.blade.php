@@ -128,6 +128,61 @@
           <p class="title">Câu chuyện thàn công</p>
         </h3>
 
+         <!-- *****TIN TUC SU KIEN ***** -->
+    <section class="news-event">
+               
+            <div class="col-12">
+                <div class="event owl-carousel">
+                    <div class="item">                  
+                            <a href="">
+                            <div class="cc_thumb">
+                              <img src="https://www.itgvietnam.com/wp-content/uploads/2014/10/nhan-vat-elmich-01.png">
+                            </div>
+                            <h6>ITG khởi động triển khai giải pháp 3S ERP.iSCM tại K&G Việt Nam</h6>
+                            <p> Ngày 25/6 tại văn phòng công ty CP Đầu tư K&G Việt Nam(K&G), đã diễn ra Lễ Khởi Động Dự Án Triển Khai Giải Pháp Quản Trị Doanh Nghiệp 3S.</p>
+                            </a>
+                    </div>
+
+                    <div class="item">                  
+                            <a href="">
+                            <div class="cc_thumb">
+                            <img src="https://www.itgvietnam.com/wp-content/uploads/2018/06/person2.jpg">
+                            </div>
+                            <h6>ITG khởi động triển khai giải pháp 3S ERP.iSCM tại K&G Việt Nam</h6>
+                            <p> Ngày 25/6 tại văn phòng công ty CP Đầu tư K&G Việt Nam(K&G), đã diễn ra Lễ Khởi Động Dự Án Triển Khai Giải Pháp Quản Trị Doanh Nghiệp 3S.</p>
+                            </a>
+                    </div>
+
+                    <div class="item">                  
+                            <a href="">
+                            <div class="cc_thumb">
+                              <img src="https://www.itgvietnam.com/wp-content/uploads/2014/10/nhan-vat-nam-duoc-01.png">
+                            </div>
+                            <h6>ITG khởi động triển khai giải pháp 3S ERP.iSCM tại K&G Việt Nam</h6>
+                            <p> Ngày 25/6 tại văn phòng công ty CP Đầu tư K&G Việt Nam(K&G), đã diễn ra Lễ Khởi Động Dự Án Triển Khai Giải Pháp Quản Trị Doanh Nghiệp 3S.</p>
+                            </a>
+                    </div>
+
+                    <div class="item">                  
+                            <a href="">
+                            <div class="cc_thumb">
+                              <img src="https://www.itgvietnam.com/wp-content/uploads/2014/10/nhan-vat-darphaco-01.png">
+                            </div>
+                            <h6>ITG khởi động triển khai giải pháp 3S ERP.iSCM tại K&G Việt Nam</h6>
+                            <p> Ngày 25/6 tại văn phòng công ty CP Đầu tư K&G Việt Nam(K&G), đã diễn ra Lễ Khởi Động Dự Án Triển Khai Giải Pháp Quản Trị Doanh Nghiệp 3S.</p>
+                            </a>
+                    </div>
+
+                    <div class="item">                  
+                            <a href="">
+                            <div class="cc_thumb">
+                              <img src="https://www.itgvietnam.com/wp-content/uploads/2018/06/person1.jpg">
+                            </div>
+                            <h6>ITG khởi động triển khai giải pháp 3S ERP.iSCM tại K&G Việt Nam</h6>
+                            <p> Ngày 25/6 tại văn phòng công ty CP Đầu tư K&G Việt Nam(K&G), đã diễn ra Lễ Khởi Động Dự Án Triển Khai Giải Pháp Quản Trị Doanh Nghiệp 3S.</p>
+                            </a>
+                    </div>
+
          <!-- *****CAU CHUYEN THANH CONG ***** -->
          <section>
         <div class="container">
