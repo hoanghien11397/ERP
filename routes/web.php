@@ -36,4 +36,8 @@ Route::get('khach_hang',function(){
 Route::get('tin_tuc',function(){
     return view('pages.tin_tuc');
 })->name('tin_tuc');
+
+Route::get('dich_vu',function(){
+    return view('pages.dich_vu');
+})->name('dich_vu');
     

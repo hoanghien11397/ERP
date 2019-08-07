@@ -25,7 +25,7 @@
                                             <a class="dropdown-item" href="">3S CRM</a>  
                                         </div>
                                     </li>
-                                    <li class="nav-item"><a class="nav-link" href="about.html">Dịch vụ</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="{{ route('dich_vu') }}">Dịch vụ</a></li>
                                     <li class="nav-item dropdown">
                                         <a class="nav-link dropdown-toggle" href="{{ route('tin_tuc') }}" >Tin tức</a>
                                         <div class="dropdown-menu">

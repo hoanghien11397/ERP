@@ -1,0 +1,25 @@
+#dichvu{
+    padding-top:105px
+}
+#dichvu button.sb_btn {
+    
+    transition: all .25s ease-out;
+    background: #036894;
+    border: 1px solid transparent;
+    padding: 4px 15px;
+    color: #fff;
+    font-size: 14px;
+}
+
+#dichvu button.sb_btn:hover {
+    background: 0 0;
+    border: 1px solid #036894;
+    color: #036894;
+}
+#dichvu .box-t{
+    margin: 25px 0;
+}
+
+#dichvu p{
+    color:#2c2d33;
+}
