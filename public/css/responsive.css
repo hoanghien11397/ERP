@@ -21,6 +21,9 @@
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
+    .text-center {
+        font-size: 10px;
+    }
     .navbar-toggler {
         border: 2px solid #fff;
         background-color: #f2f4f6;
@@ -35,7 +38,7 @@
     #mosh-navbar {
         padding: 30px;
         border-radius: 5px;
-        background-color: #211b31;
+        background-color: #ffffff;
         text-align: left;
     }
     .header_area.sticky .navbar {
@@ -92,6 +95,15 @@
 }
 
 @media (min-width: 320px) and (max-width: 767px) {
+    .text-center {
+        display: none;
+    }
+    .row {
+        justify-content: center;
+    }
+    #intro p {
+        padding: 10px;
+    }
     .header_area {
         padding: 0;
         height: 80px;
@@ -110,7 +122,7 @@
     #mosh-navbar {
         padding: 30px;
         border-radius: 5px;
-        background-color: #211b31;
+        background-color: #ffff;
         text-align: left;
     }
     .header_area.sticky .navbar {
@@ -278,4 +290,9 @@
                 flex: 0 0 50%;
         max-width: 50%;
     }
+}
+
+@media (max-width: 991px) {
+
+
 }
