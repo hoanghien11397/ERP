@@ -31,6 +31,7 @@
     <link href="css/gioi_thieu.css" rel="stylesheet">
     <link href="css/khach_hang.css" rel="stylesheet">
     <link href="css/tin_tuc.css" rel="stylesheet">
+    <link href="css/san_pham.css" rel="stylesheet">
     
  
 

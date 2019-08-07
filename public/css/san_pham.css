@@ -1,0 +1,13 @@
+h3.pros_title {
+  text-align: center;
+  text-transform: uppercase;
+  color: #036894;
+  font-weight: 700;
+  margin-bottom: 25px;
+}
+p {
+  margin: 0 0 10px;
+}
+.top-content {
+  margin-bottom: 20px;
+}
