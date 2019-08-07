@@ -3,8 +3,11 @@
 
 @section('content')
 
-<body>
-    <img src="https://www.itgvietnam.com/wp-content/uploads/2018/08/gioi-thieu-2.jpg" alt="" style="margin-bottom: 20px;">
+<!-- **** chuyen de**** -->
+<main id="chuyende" style="margin-top:105px;">
+    <section class="bg-img">
+        <img src="https://www.itgvietnam.com/wp-content/uploads/2018/12/banner-dich-vu.jpg" alt="">
+    </section>
 
     <div class="archive_box">
         <div class="container">
@@ -316,5 +319,5 @@
             </div>
         </div>
     </section>
-
+</main>
     @endsection

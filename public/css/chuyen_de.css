@@ -201,7 +201,7 @@ div.wpcf7 .screen-reader-response {
     border: 0;
 }
 p {
-    margin: 0 0 10px;
+    /* margin: 0 0 10px; */
     font-size: 14px;
 }
 .ct_box input.wpcf7-form-control.wpcf7-submit {

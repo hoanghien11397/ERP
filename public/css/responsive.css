@@ -125,6 +125,10 @@
         background-color: #ffff;
         text-align: left;
     }
+
+    li{
+        margin-top:7px;
+    }
     .header_area.sticky .navbar {
         height: 70px;
     }
