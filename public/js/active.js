@@ -246,6 +246,32 @@ if ($.fn.owlCarousel) {
         }
     });
 }
+
+
+if ($.fn.owlCarousel) {
+    $('.cauchuyen').owlCarousel({
+        loop: true,
+        autoplay: true,
+        smartSpeed: 5000,
+        margin: 40,
+        nav:true,
+        navText: ['<i class="fa fa-chevron-left" aria-hidden="true"></i>', '<i class="fa fa-chevron-right" aria-hidden="true"></i>'],
+        responsive:{
+            0:{
+                items:1
+            },
+            600:{
+                items:2
+            },
+            1000:{
+                items:3
+            }
+        }
+    });
+}
+
+
+
     $("#search-btn").on('click', function () {
         $("body").toggleClass("search-form-open");
         $(".search-form-area").toggleClass("fadeIn");
