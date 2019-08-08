@@ -48,7 +48,7 @@ element.style {
     font-weight: 700;
     font-size: 17px;
     margin-top: 0;
-    margin-bottom: 20px;
+    padding-top: 46px;
 }
 
 .contact_box1 input.wpcf7-form-control.wpcf7-submit {
@@ -59,19 +59,7 @@ element.style {
     color: #fff;
     font-size: 14px;
 }
-.form-control {
-    display: block;
-    width: 100%;
-    height: 34px;
-    padding: 6px 12px;
-    font-size: 14px;
-    line-height: 1.42857143;
-    color: #555;
-    background-color: #fff;
-    background-image: none;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-}
+
 .sup_box {
     background: #036894;
     padding: 15px;
@@ -84,4 +72,8 @@ element.style {
 }
 .sup_ct.a {
     color: #fff;
+}
+
+#lienhe form{
+    padding-top:27px;
 }
