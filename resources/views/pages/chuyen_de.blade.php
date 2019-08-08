@@ -131,8 +131,7 @@
                 </div>
                 <div class="col-md-3 sidebar_col ar_sb">
                     <div class="sb_content">
-                        <h3 class="sb_title">Danh mục chuyên đề</h3>
-                        <div class="sb_box sidebar_menu_box list_dv">
+                        <h3 class="sb_title">Danh mục chuyên đề</h3>                      
                             <div class="media_posts posts">
                                 <ul class="list_cate">
                                     <li class=""> <a href="https://www.itgvietnam.com/category/dien-dan/bi/" title="BI">BI</a></li>
@@ -149,126 +148,30 @@
                                     <li class=""> <a href="https://www.itgvietnam.com/category/dien-dan/scm/" title="SCM">SCM</a></li>
                                 </ul>
                             </div>
-                        </div>
-                        <div class="sb_box sb_exp">
-                            <h3 class="exp_title">Trải nghiệm khách hàng</h3>
-                            <div class="exp_slider">
-                                <div class="exp-owl owl-carousel owl-loaded owl-drag">
 
-                                    <div class="owl-stage-outer">
-                                        <div class="owl-stage" style="transition: all 0.25s ease 0s;width: 3396px;">
-                                            <div class="owl-item cloned" style="width: 278px;margin-right: 5px;">
-                                                <div class="item">
-                                                    <section class="team-area1 section-gap" id="team">
-                                                        <div class="container">
-                                                            <div class="row justify-content-center d-flex align-items-center">
-                                                                <div class="col-12">
-                                                                    <div class="one-carousel owl-carousel">
-                                                                        <div class="item">
-                                                                            <div class="single-team">
-                                                                                <div class="thumb">
-                                                                                    <img class="img-fluid" src="https://www.itgvietnam.com/wp-content/uploads/2014/10/nhan-vat-nam-duoc-01.png" alt="">
-
-                                                                                </div>
-                                                                                <div class="meta-text mt-30 text-center">
-                                                                                    <p>“Giải pháp 3S ERP đã giúp Sivico nói chung, hoạt động khá hiệu quả, cá nhân tôi nói riêng có được cái nhìn từ tổng quan đến chi tiết về hoạt động SXKD và có những quyết sách nhanh chóng, chính xác như: trong công tác hoạch định và mua sắm nguyên vật liệu, lập kế hoạch sản xuất"</p>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                        <div class="item">
-                                                                            <div class="single-team">
-                                                                                <div class="thumb">
-                                                                                    <img class="img-fluid" src="https://www.itgvietnam.com/wp-content/uploads/2014/10/nhan-vat-elmich-01.png" alt="">
-
-                                                                                </div>
-                                                                                <div class="meta-text mt-30 text-center">
-                                                                                    <p>“Giải pháp 3S ERP đã giúp Sivico nói chung, hoạt động khá hiệu quả, cá nhân tôi nói riêng có được cái nhìn từ tổng quan đến chi tiết về hoạt động SXKD và có những quyết sách nhanh chóng, chính xác như: trong công tác hoạch định và mua sắm nguyên vật liệu, lập kế hoạch sản xuất"</p>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                        <div class="item">
-                                                                            <div class="single-team">
-                                                                                <div class="thumb">
-                                                                                    <img class="img-fluid" src="https://www.itgvietnam.com/wp-content/uploads/2018/06/person1.jpg" alt="">
-
-                                                                                </div>
-                                                                                <div class="meta-text mt-30 text-center">
-                                                                                    <p>“Giải pháp 3S ERP đã giúp Sivico nói chung, hoạt động khá hiệu quả, cá nhân tôi nói riêng có được cái nhìn từ tổng quan đến chi tiết về hoạt động SXKD và có những quyết sách nhanh chóng, chính xác như: trong công tác hoạch định và mua sắm nguyên vật liệu, lập kế hoạch sản xuất"</p>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                        <div class="item">
-                                                                            <div class="single-team">
-                                                                                <div class="thumb">
-                                                                                    <img class="img-fluid" src="https://www.itgvietnam.com/wp-content/uploads/2018/06/person2.jpg" alt="">
-
-                                                                                </div>
-                                                                                <div class="meta-text mt-30 text-center">
-                                                                                    <p>“Giải pháp 3S ERP đã giúp Sivico nói chung, hoạt động khá hiệu quả, cá nhân tôi nói riêng có được cái nhìn từ tổng quan đến chi tiết về hoạt động SXKD và có những quyết sách nhanh chóng, chính xác như: trong công tác hoạch định và mua sắm nguyên vật liệu, lập kế hoạch sản xuất"</p>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                        <div class="item">
-                                                                            <div class="single-team">
-                                                                                <div class="thumb">
-                                                                                    <img class="img-fluid" src="https://www.itgvietnam.com/wp-content/uploads/2018/06/person1.jpg" alt="">
-
-                                                                                </div>
-                                                                                <div class="meta-text mt-30 text-center">
-                                                                                    <p>“Giải pháp 3S ERP đã giúp Sivico nói chung, hoạt động khá hiệu quả, cá nhân tôi nói riêng có được cái nhìn từ tổng quan đến chi tiết về hoạt động SXKD và có những quyết sách nhanh chóng, chính xác như: trong công tác hoạch định và mua sắm nguyên vật liệu, lập kế hoạch sản xuất"</p>
-                                                                                </div>
-
-                                                                            </div>
-                                                                        </div>
-
-                                                                    </div>
-                                                                </div>
-
-                                                            </div>
-                                                        </div>
-                                                    </section>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
+                        <h3 class="text-center" style="margin-top:25px;">Câu chuyện thành công</h3>
+                            <div class="one-carousel owl-carousel text-center">
+                                <div class="item">
+                                    <img src="https://www.itgvietnam.com/wp-content/uploads/2014/10/nhan-vat-darphaco-01.png" alt="" style="width:auto;margin:0 auto;">
+                                    <h6>Ông Tống Viết Phải - Tổng giám đốc DAPHARCO</h6>
+                                    <p>“Chiến lược 2018- 2023 DARPHARCO là trở thành top 3 nhà phân phối Dược phẩm lớn nhất Việt Nam. Để đạt được mục tiêu đó chúng tôi cần một phần mềm ERP hiện đại đủ khả năng quản lý tất cả các khâu từ phân phối đầu vào đến đầu ra, từ giá cả đến chất lượng sản phẩm và chúng tôi đã lựa chọn phần mềm 3S ERP.iPHARMA của ITG”</p>
                                 </div>
-                                <div class="owl-nav">
-                                    <div class="owl-prev"><i class="fa fa-angle-left"></i></div>
-                                    <div class="owl-next"><i class="fa fa-angle-right"></i></div>
+                                <div class="item">
+                                    <img src="https://www.itgvietnam.com/wp-content/uploads/2014/10/nhan-vat-darphaco-01.png" alt="" style="width:auto;margin:0 auto;">
+                                    <h6>Ông Tống Viết Phải - Tổng giám đốc DAPHARCO</h6>
+                                    <p>“Chiến lược 2018- 2023 DARPHARCO là trở thành top 3 nhà phân phối Dược phẩm lớn nhất Việt Nam. Để đạt được mục tiêu đó chúng tôi cần một phần mềm ERP hiện đại đủ khả năng quản lý tất cả các khâu từ phân phối đầu vào đến đầu ra, từ giá cả đến chất lượng sản phẩm và chúng tôi đã lựa chọn phần mềm 3S ERP.iPHARMA của ITG”</p>
                                 </div>
-                                <div class="owl-dots">
-                                    <div class="owl-dot"><span></span></div>
-                                    <div class="owl-dot"><span></span></div>
-                                    <div class="owl-dot"><span></span></div>
-                                    <div class="owl-dot"><span></span></div>
-                                    <div class="owl-dot"><span></span></div>
-                                    <div class="owl-dot active"><span></span></div>
+                                <div class="item">
+                                    <img src="https://www.itgvietnam.com/wp-content/uploads/2014/10/nhan-vat-darphaco-01.png" alt="" style="width:auto;margin:0 auto;">
+                                    <h6>Ông Tống Viết Phải - Tổng giám đốc DAPHARCO</h6>
+                                    <p>“Chiến lược 2018- 2023 DARPHARCO là trở thành top 3 nhà phân phối Dược phẩm lớn nhất Việt Nam. Để đạt được mục tiêu đó chúng tôi cần một phần mềm ERP hiện đại đủ khả năng quản lý tất cả các khâu từ phân phối đầu vào đến đầu ra, từ giá cả đến chất lượng sản phẩm và chúng tôi đã lựa chọn phần mềm 3S ERP.iPHARMA của ITG”</p>
                                 </div>
+                                <div class="item">
+                                    <img src="https://www.itgvietnam.com/wp-content/uploads/2014/10/nhan-vat-darphaco-01.png" alt="" style="width:auto;margin:0 auto;">
+                                    <h6>Ông Tống Viết Phải - Tổng giám đốc DAPHARCO</h6>
+                                    <p>“Chiến lược 2018- 2023 DARPHARCO là trở thành top 3 nhà phân phối Dược phẩm lớn nhất Việt Nam. Để đạt được mục tiêu đó chúng tôi cần một phần mềm ERP hiện đại đủ khả năng quản lý tất cả các khâu từ phân phối đầu vào đến đầu ra, từ giá cả đến chất lượng sản phẩm và chúng tôi đã lựa chọn phần mềm 3S ERP.iPHARMA của ITG”</p>
+                                </div>   
                             </div>
-                        </div>
-                    </div>
-
-
-
-                    <div class="sb_box sb_contact list_dv">
-                        <h3 class="sb_ct_title">Đăng ký Email để nhận bài viết</h3>
-                        <div class="ct_box">
-                            <div role="form" class="wpcf7" id="wpcf7-f7563-o1" lang="vi" dir="ltr">
-                                <div class="screen-reader-response"></div>
-                                <form action="/category/dien-dan/industries/#wpcf7-f7563-o1" method="post" class="wpcf7-form" novalidate="novalidate">
-                                    <div style="display: none;">
-                                        <input type="hidden" name="_wpcf7" value="7563">
-                                        <input type="hidden" name="_wpcf7_version" value="5.1.3">
-                                        <input type="hidden" name="_wpcf7_locale" value="vi">
-                                        <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f7563-o1">
-                                        <input type="hidden" name="_wpcf7_container_post" value="0">
-                                    </div>
-                                    <p><span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email form-control" aria-required="true" aria-invalid="false" placeholder="Email"></span> </p>
-                                    <p><input type="submit" value="Gửi" class="wpcf7-form-control wpcf7-submit"><span class="ajax-loader"></span></p>
-                                    <div class="wpcf7-response-output wpcf7-display-none"></div>
-                                </form>
-                            </div>
-                        </div>
                     </div>
                 </div>
             </div>
@@ -319,5 +222,6 @@
             </div>
         </div>
     </section>
+    
 </main>
     @endsection

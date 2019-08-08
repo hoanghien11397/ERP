@@ -16,6 +16,9 @@
     <link rel="stylesheet" href="css/magnific-popup.css">
     <link rel="stylesheet" href="css/animate.css">
     <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/meanmenu.css">
+    <link rel="stylesheet" href="css/meanmenu.min.css">
+
     
 
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700,900" rel="stylesheet">
@@ -55,6 +58,8 @@
     <script src="js/bootstrap.min.js"></script>
     <!-- All Plugins js -->
     <script src="js/plugins.js"></script>
+    <script src="js/jquery.meanmenu.js"></script>
+    <script src="js/jquery.meanmenu.min.js"></script>
     <!-- Active js -->
     <script src="js/active.js"></script>
     
@@ -66,6 +71,13 @@
     
     <!-- custom js -->
 
+
+
+    <script>
+        jQuery(document).ready(function () {
+	    jQuery('#moshnavbar').meanmenu();
+	});
+    </script>
 
 </body>
 

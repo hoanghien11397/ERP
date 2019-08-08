@@ -16,25 +16,21 @@
 
     if ($.fn.owlCarousel) {
         $(".mosh-service-slides").owlCarousel({
-            items: 3,
             loop: true,
             autoplay: true,
-            smartSpeed: 800,
-            margin: 30,
-            center: true,
-            dots: false,
+            smartSpeed: 1000,
+            margin: 40,
             nav: true,
-            startPosition: 1,
             navText: ['<i class="fa fa-chevron-left" aria-hidden="true"></i>', '<i class="fa fa-chevron-right" aria-hidden="true"></i>'],
-            responsive: {
-                0: {
-                    items: 1
+            responsive:{
+                0:{
+                    items:1
                 },
-                576: {
-                    items: 2
+                600:{
+                    items:2
                 },
-                768: {
-                    items: 3
+                1000:{
+                    items:3
                 }
             }
         });
