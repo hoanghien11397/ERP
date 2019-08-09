@@ -143,7 +143,7 @@
                             <div class="thumbnail">
                                 <img src="https://www.itgvietnam.com/wp-content/uploads/2019/07/kick-off-du-an-erp-tai-KG-320x220.jpg" alt="solution-img">
                             </div>
-                            <h6>ITG khởi động triển khai giải pháp 3S ERP.iSCM tại K&G Việt Nam</h6>
+                            <h6>ERP Wins khởi động triển khai giải pháp 3S ERP.iSCM tại K&G Việt Nam</h6>
                             <p> Ngày 25/6 tại văn phòng công ty CP Đầu tư K&G Việt Nam(K&G), đã diễn ra Lễ Khởi Động Dự Án Triển Khai Giải Pháp Quản Trị Doanh Nghiệp 3S.</p>
                             </a>
                     </div>
@@ -249,7 +249,7 @@
             <div class="row d-flex justify-content-center">
                 <div class="menu-content pb-70 col-lg-8">
                     <div class="title text-center">
-                        <h3 class="mb-10">KHÁCH HÀNG NÓI GÌ VỀ GIẢI PHÁP 3S ERP - ITG</h3>
+                        <h3 class="mb-10">KHÁCH HÀNG NÓI GÌ VỀ GIẢI PHÁP 3S ERP - ERP Wins</h3>
                         <p>Cảm nhận của doanh nghiệp sau khi áp dụng giải pháp 3S ERP.</p>
                     </div>
                 </div>
