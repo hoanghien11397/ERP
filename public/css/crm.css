@@ -1,0 +1,42 @@
+
+
+#crm {
+    padding-top: 105px;
+}
+
+#crm h3{
+    color: #0154d6d1;
+    font-size: 27px;
+}
+
+#crm p{
+    color:#4a4c58;
+}
+
+#crm .title {
+    color: #007ee9;
+    font-size: 18px;
+}
+
+#crm .box-3s{
+    padding-top: 41px;
+}
+
+#crm .btn{
+    margin: 12px 0;
+}
+
+#crm .title_line {
+    border: 1px solid #007ee9;
+    width: 8%;
+    margin-bottom: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#crm .btn-spe{
+   border-radius: 0;
+    outline: none;
+    background: linear-gradient(to bottom, #5e9cf9, #3b85fb, #1c6bfa, #184ff5, #3128eb9e);
+}

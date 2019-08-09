@@ -18,12 +18,12 @@
                 </div>
                 <div class="box-tt">
                     <div class="row">
-                        <div class="col-md-3">
+                        <div class="col-md-4">
                             <div class="thumbnail">
                                 <img src="https://www.itgvietnam.com/wp-content/uploads/2019/06/aristino-trien-khai-erp-470x300.jpg" alt="">
                             </div>
                         </div>
-                        <div class="col-md-9">
+                        <div class="col-md-8">
                              <a href="">Công ty sở hữu chuỗi thời trang nam hàng đầu Aristino lựa chọn giải pháp 3S ERP.iSCM</a><br>
                             <strong style="font-size:13px"><i class="fas fa-calendar-week"></i> 25/06/2019</strong>
                             <p>Công ty CP Đầu tư K&G Việt Nam (K&G) là đơn vị sở hữu thương hiệu thời trang nam Aristino - một nhãn hàng thời trang cao cấp dành cho nam. Bên cạnh Aristino, K&G còn sở hữu những nhãn hiệu thời trang thuộc phân...</p>
@@ -33,12 +33,12 @@
                 </div>
                 <div class="box-tt">
                     <div class="row">
-                        <div class="col-md-3">
+                        <div class="col-md-4">
                             <div class="thumbnail">
                                 <img src="https://www.itgvietnam.com/wp-content/uploads/2019/06/aristino-trien-khai-erp-470x300.jpg" alt="">
                             </div>
                         </div>
-                        <div class="col-md-9">
+                        <div class="col-md-8">
                              <a href="">Công ty sở hữu chuỗi thời trang nam hàng đầu Aristino lựa chọn giải pháp 3S ERP.iSCM</a><br>
                             <strong style="font-size:13px"><i class="fas fa-calendar-week"></i> 25/06/2019</strong>
                             <p>Công ty CP Đầu tư K&G Việt Nam (K&G) là đơn vị sở hữu thương hiệu thời trang nam Aristino - một nhãn hàng thời trang cao cấp dành cho nam. Bên cạnh Aristino, K&G còn sở hữu những nhãn hiệu thời trang thuộc phân...</p>
@@ -48,12 +48,12 @@
                 </div>
                 <div class="box-tt">
                     <div class="row">
-                        <div class="col-md-3">
+                        <div class="col-md-4">
                             <div class="thumbnail">
                                 <img src="https://www.itgvietnam.com/wp-content/uploads/2019/06/aristino-trien-khai-erp-470x300.jpg" alt="">
                             </div>
                         </div>
-                        <div class="col-md-9">
+                        <div class="col-md-8">
                              <a href="">Công ty sở hữu chuỗi thời trang nam hàng đầu Aristino lựa chọn giải pháp 3S ERP.iSCM</a><br>
                             <strong style="font-size:13px"><i class="fas fa-calendar-week"></i> 25/06/2019</strong>
                             <p>Công ty CP Đầu tư K&G Việt Nam (K&G) là đơn vị sở hữu thương hiệu thời trang nam Aristino - một nhãn hàng thời trang cao cấp dành cho nam. Bên cạnh Aristino, K&G còn sở hữu những nhãn hiệu thời trang thuộc phân...</p>
@@ -63,12 +63,12 @@
                 </div>
                 <div class="box-tt">
                     <div class="row">
-                        <div class="col-md-3">
+                        <div class="col-md-4">
                             <div class="thumbnail">
                                 <img src="https://www.itgvietnam.com/wp-content/uploads/2019/06/aristino-trien-khai-erp-470x300.jpg" alt="">
                             </div>
                         </div>
-                        <div class="col-md-9">
+                        <div class="col-md-8">
                              <a href="">Công ty sở hữu chuỗi thời trang nam hàng đầu Aristino lựa chọn giải pháp 3S ERP.iSCM</a><br>
                             <strong style="font-size:13px"><i class="fas fa-calendar-week"></i> 25/06/2019</strong>
                             <p>Công ty CP Đầu tư K&G Việt Nam (K&G) là đơn vị sở hữu thương hiệu thời trang nam Aristino - một nhãn hàng thời trang cao cấp dành cho nam. Bên cạnh Aristino, K&G còn sở hữu những nhãn hiệu thời trang thuộc phân...</p>
@@ -78,12 +78,12 @@
                 </div>
                 <div class="box-tt">
                     <div class="row">
-                        <div class="col-md-3">
+                        <div class="col-md-4">
                             <div class="thumbnail">
                                 <img src="https://www.itgvietnam.com/wp-content/uploads/2019/06/aristino-trien-khai-erp-470x300.jpg" alt="">
                             </div>
                         </div>
-                        <div class="col-md-9">
+                        <div class="col-md-8">
                              <a href="">Công ty sở hữu chuỗi thời trang nam hàng đầu Aristino lựa chọn giải pháp 3S ERP.iSCM</a><br>
                             <strong style="font-size:13px"><i class="fas fa-calendar-week"></i> 25/06/2019</strong>
                             <p>Công ty CP Đầu tư K&G Việt Nam (K&G) là đơn vị sở hữu thương hiệu thời trang nam Aristino - một nhãn hàng thời trang cao cấp dành cho nam. Bên cạnh Aristino, K&G còn sở hữu những nhãn hiệu thời trang thuộc phân...</p>

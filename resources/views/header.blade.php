@@ -17,17 +17,17 @@
                                     <li class="nav-item dropdown">
                                         <a class="nav-link dropdown-toggle" href="{{ route('san_pham') }}" ><i class="far fa-question-circle"></i> Sản Phẩm</a>
                                             <ul class="dropdown-menu">
-                                                <li><a class="dropdown-item" href="">3S ERP 10i</a></li>
-                                                <li><a class="dropdown-item" href="">3S HRM</a></li>
-                                                <li><a class="dropdown-item" href="">3S CRM</a></li> 
+                                                <li><a class="dropdown-item" href="{{ route('crm') }}">3S ERP 10i</a></li>
+                                                <li><a class="dropdown-item" href="{{ route('crm') }}">3S HRM</a></li>
+                                                <li><a class="dropdown-item" href="{{ route('crm') }}">3S CRM</a></li> 
                                             </ul>       
                                     </li>
                                     <li class="nav-item"><a class="nav-link" href="{{ route('dich_vu') }}"><i class="fas fa-cog"></i> Dịch vụ</a></li>
                                     <li class="nav-item dropdown">
                                         <a class="nav-link dropdown-toggle" href="{{ route('tin_tuc') }}" ><i class="far fa-newspaper"></i> Tin tức</a>
                                         <ul class="dropdown-menu">
-                                            <li><a class="dropdown-item" href="">Tin tức sự kiện</a></li>
-                                            <a class="dropdown-item" href="">Báo chí nói về chúng tôi</a> </li>
+                                            <li><a class="dropdown-item" href="{{ route('tin_tuc') }}">Tin tức sự kiện</a></li>
+                                            <a class="dropdown-item" href="{{ route('tin_tuc') }}">Báo chí nói về chúng tôi</a> </li>
                                         </ul>
                                     </li>
                                     <li class="nav-item"><a class="nav-link" href="{{ route('khach_hang') }}"><i class="fas fa-users"></i> Khách hàng</a></li>

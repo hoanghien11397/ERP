@@ -4,7 +4,7 @@
 @section('content')
 
 <!-- **** chuyen de**** -->
-<main id="chuyende" style="margin-top:105px;">
+<main id="chuyende">
     <section class="bg-img">
         <img src="https://www.itgvietnam.com/wp-content/uploads/2018/12/banner-dich-vu.jpg" alt="">
     </section>

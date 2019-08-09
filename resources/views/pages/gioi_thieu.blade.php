@@ -90,7 +90,7 @@
         </div>
     </section>
 
-    <section class="danhhieu" style="background-color:#faf7f0;">
+    <section class="danhhieu" style="background-color:#faf7f0;padding: 2px 0 0 0;">
         <div class="container"> 
             <h3 class="text-center">DANH HIỆU</h3>
             <div class="title_line"></div>

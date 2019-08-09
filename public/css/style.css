@@ -408,7 +408,7 @@ img {
 img[alt="product"]{
     width: unset!important;
     margin: auto;
-    background: #036894;
+    background: linear-gradient(to bottom, #5e9cf9, #3b85fb, #1c6bfa, #184ff5, #3128eb);
     max-width: 100%;
     height: auto;
     border-radius: 100%;
@@ -432,19 +432,29 @@ img[alt="solution-img"]{
 
 .mean-bar{
     position:fixed !important;
-    background: #72bfd3 !important;
-    max-height: 445px;
+    background: white !important;
+    max-height: 480px;
     overflow: scroll;
+}
+
+.mean-container a.meanmenu-reveal span {
+    background: #2e7afb;
+}
+.mean-bar .meanclose{
+    color: #184ff5 !important;
 }
 
 .mean-container .mean-nav{
     border-radius: 24px;
-    background: #72bfd3;
+    background: white !important;
     font-size: 12px;
 }
 
+.mean-container .mean-nav ul {
+    background: linear-gradient(to bottom, #5998f978, #3b85fb, #1c6bfa, #184ff5, #3128eb);
+}
 .mean-container .mean-nav ul li a {
-    padding: 13px 0 5px 5px;
+    padding: 13px 0 12px 5px;
 }
 
 .mean-container .mean-nav .far{
@@ -472,6 +482,7 @@ img[alt="solution-img"]{
 /* tin tuc & su kien */
 
 .news-event .event p{
+    color: #000000f5;
     line-height: 1.5;
     font-size: 14px;
     text-align: justify;
@@ -639,7 +650,7 @@ cursor: pointer;
 -------------------------- */
 
 .footer-area {
-    background-image: url('https://www.itgvietnam.com/wp-content/themes/default/images/ft_bg.jpg');
+    background: linear-gradient(to bottom, #5e9cf9, #3b85fb, #1c6bfa, #184ff5, #3128eb);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
