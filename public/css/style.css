@@ -281,7 +281,7 @@ img {
     width: 550px;
     height: 50px;
     border-radius: 10px;
-    border: 2px solid rgba(255, 255, 255, 0.7);
+    border: 2px solid rgb(0, 130, 236);
     padding: 0 30px;
     color: #fff !important;
     font-size: 14px;
@@ -290,6 +290,13 @@ img {
     transition-duration: 500ms;
 }
 
+.search-button{
+    margin-left: 20px;
+}
+
+img[alt="Search"]{
+    width: 20px;
+}
 
 /* --------------------------
 :: 3.0 Welcome Area CSS
@@ -661,9 +668,14 @@ cursor: pointer;
 .footer-area .social-btn .fab{
     font-size: 17px;
 }
+
+.footer-area .social-btn .fab:hover {
+    color: #5c9af9;
+}
+
 .single-footer{
-    padding: 30px 0 0 30px;
-    border-left: 1px solid white;
+    padding: 30px 0 0 13px;
+   
 }
 
 .single-footer p {

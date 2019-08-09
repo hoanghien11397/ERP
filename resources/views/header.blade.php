@@ -2,7 +2,7 @@
 
     <!-- ***** Header  Start ***** -->
     <header class="header_area clearfix">
-        <div class="container-fluid h-100">
+        <div class="container-fluid h-100" style="padding-left: 0;">
             <div class="row h-100">
                 <!-- Menu Area Start -->
                 <div class="col-12 h-100">
@@ -10,10 +10,10 @@
                         <nav class="navbar h-100 navbar-expand-lg align-items-center">
                             <div class="collapse navbar-collapse" id="moshnavbar">
                                 <!-- Logo -->
-                            <a class="navbar-brand" href=""><img src="./img/logo.JPEG" alt="logo" width="150px" height="60px"></a>
+                            <a class="navbar-brand" href=""><img src="./img/logo.jpg" alt="logo" width="150px" height="60px"></a>
                                 <ul class="navbar-nav animated" id="nav">
                                     <li class="nav-item active"><a class="nav-link" href=""><i class="fas fa-home"></i> Trang chủ</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="{{ route('gioi_thieu') }}"><i class="fas fa-globe-asia"></i> Về ITG</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="{{ route('gioi_thieu') }}"><i class="fas fa-globe-asia"></i> Về ERP Wins</a></li>
                                     <li class="nav-item dropdown">
                                         <a class="nav-link dropdown-toggle" href="{{ route('san_pham') }}" ><i class="far fa-question-circle"></i> Sản Phẩm</a>
                                             <ul class="dropdown-menu">
@@ -48,9 +48,19 @@
                                     <li class="nav-item"><a class="nav-link" href="{{ route('lien_he') }}"><i class="fas fa-map-marker-alt"></i> Liên hệ</a></li>
                                 </ul>
                                
-                                <div  style="margin-left:17px;" class="hid">
-                                    <a href="#"><i class="fas fa-search"></i></a>
-                                </div> 
+
+                                 <!-- Search Form -->
+                                 <div class="search-form-area animated">
+                                    <form action="#" method="post">
+                                        <input type="search" name="search" id="search" placeholder="Search">
+                                        <button type="submit" class="d-none"><img src="img/core-img/search-icon.png" alt="Search"></button>
+                                    </form>
+                                </div>
+                                <!-- Search btn -->
+                                <div class="search-button hid">
+                                    <a href="#" id="search-btn"><img src="./img/search-icon-th.png" alt="Search"></a>
+                                </div>
+
                                 <!-- Language -->
                                 <div style="margin-left:43px" class="hid">
                                     <a href="#"><img src="https://www.itgvietnam.com/wp-content/plugins/qtranslate-x/flags/vn.png" alt=""></a>
