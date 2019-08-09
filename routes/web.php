@@ -37,11 +37,6 @@ Route::get('tin_tuc',function(){
     return view('pages.tin_tuc');
 })->name('tin_tuc');
 
-
-Route::get('san_pham',function(){
-    return view('pages.san_pham');
-})->name('san_pham');
-
 Route::get('dich_vu',function(){
     return view('pages.dich_vu');
 })->name('dich_vu');
@@ -53,4 +48,18 @@ Route::get('chuyen_de',function(){
 Route::get('download',function(){
     return view('pages.download');
 })->name('download');
-    
+
+
+
+
+
+Route::prefix('san_pham')->group(function () {
+
+    Route::get('/', function () {
+        return view('pages.san_pham');
+    })->name('san_pham');
+
+    Route::get('crm',function(){
+        return view('pages.crm');
+    })->name('crm');
+});

@@ -3,7 +3,7 @@
 
 @section('content')
 
-<main style="padding-top:94px" >
+<main style="padding-top:89px" >
 <!-- **** Welcome **** -->
     <section >
         <div class="hero-slides owl-carousel">
@@ -74,7 +74,7 @@
 
     <!-- ***** GIAI PHAP SLIDER ***** -->
      <section class="solution_slider">
-         <div class="container-fluid" style="background-color:#036893">       
+         <div class="container-fluid" style="background: linear-gradient(to bottom, #5e9cf9, #3b85fb, #1c6bfa, #184ff5, #3128eb);">       
             <div class="col-12">
             <div class="box owl-carousel text-center">
                 <div class="item">                  

@@ -78,9 +78,9 @@
     }
 
 
-    li{
+    /* li{
         margin-top:7px;
-    }
+    } */
     .header_area.sticky .navbar {
         height: 70px;
     }
@@ -281,12 +281,49 @@
     }
 
     .navbar-brand img {
-    margin-top: -59px;
+        margin-top: -63px;
+        margin-left: 10px;
     }
 
     .show {
         display:block !important;
     }
+
+    img[alt="logo"]{
+        width: 100px;
+    }
+
+    #intro {
+        padding-top: 74px !important;    }
+    #intro .intro-company {
+        padding: 0 !important;
+    }
+
+    #sanpham {
+        padding-top: 74px !important;
+    }
+
+    #sanpham .title {
+        font-size: 17px !important;
+        padding: 9px 0 !important;
+    }
+
+    #dichvu p {
+        font-size: 14px !important;
+    }
+
+    #khachhang , #tuyendung , #chuyende , #lienhe , #tintuc , #dichvu , #crm {
+        padding-top: 74px !important;
+    }
+
+    #crm .btn-special {
+        font-size: small !important;
+    }
+
+    #crm h3 {
+        font-size: 23px !important;
+    }
+
 }
 
 @media (min-width: 480px) and (max-width: 767px) {
