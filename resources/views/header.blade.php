@@ -53,7 +53,7 @@
                                  <div class="search-form-area animated">
                                     <form action="#" method="post">
                                         <input type="search" name="search" id="search" placeholder="Search">
-                                        <button type="submit" class="d-none"><img src="img/core-img/search-icon.png" alt="Search"></button>
+                                        <button type="submit" class="d-none"><img src="./img/search-icon-th.png" alt="Search"></button>
                                     </form>
                                 </div>
                                 <!-- Search btn -->
