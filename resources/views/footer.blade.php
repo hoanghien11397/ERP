@@ -18,12 +18,12 @@
             <div class="single-footer">
                 <h5>GIẢI PHÁP CHUYÊN NGÀNH</h5>
                 <ul>
-                    <li>Giải pháp ERP</li>
-                    <li>Quản trị doanh nghiệp</li>
-                    <li>Quản lý quan hệ khách hàng (CRM)</li>
-                    <li>Quản trị nguồn nhân lực (HRM)</li>
-                    <li>Doanh nghiệp thông minh (BI)</li>
-                    <li>Công nghệ mới</li>
+                    <li><a href="">Giải pháp ERP</a></li>
+                    <li><a href="">Quản trị doanh nghiệp</a></li>
+                    <li><a href="">Quản lý quan hệ khách hàng (CRM)</a></li>
+                    <li><a href="">Quản trị nguồn nhân lực (HRM)</a></li>
+                    <li><a href="">Doanh nghiệp thông minh (BI)</a></li>
+                    <li><a href="">Công nghệ mới</a></li>
                 </ul>
             </div>    
         </div>
@@ -33,9 +33,11 @@
                 <ul>
                     <li>Tòa nhà CT2, khu đô thị Constrexim Thái Hà, Phạm Văn Đồng, Hà Nội</li>
 
-                    <li>Email : contact@talentwins.co</li>
+                    <li><a href="">Email : contact@talentwins.co</a></li>
+
+                    <li>Hotline hỗ trợ giải pháp : 0927151535</li>
                    
-                    <li>Hotline hỗ trợ kỹ thuật : 0927151535/0988747982</li>
+                    <li>Hotline hỗ trợ kỹ thuật : 0988747982</li>
                 </ul>
             </div>
         </div>

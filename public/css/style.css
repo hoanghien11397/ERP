@@ -689,13 +689,20 @@ cursor: pointer;
 .single-footer h5{
     color: white;
 }
-.single-footer li{
+
+.single-footer li {
+    line-height: 2;
+    color: white;
+    font-weight: normal;
+ }
+
+.single-footer li a{
 line-height: 2;
 color: white;
 font-weight: normal;
 }
 
-.single-footer li:hover{
+.single-footer li a:hover{
     color: #deda3c;
     }
 .footer-area a{
