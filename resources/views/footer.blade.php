@@ -31,11 +31,11 @@
             <div class="single-footer">
                 <h5>THÔNG TIN LIÊN HỆ</h5>
                 <ul>
-                    <li>Tầng 7, Tòa nhà Báo Nông thôn Ngày nay, Lô E2 Cầu Giấy, Đường Dương Đình Nghệ, Cầu Giấy, Hà Nội</li>
-                    <li>Tel/Fax : 84 - 24 - 38339966</li>
-                    <li>Email : itg@3serp.vn</li>
-                    <li>Hotline tư vấn giải pháp : 0986.196.838</li>
-                    <li>Hotline hỗ trợ kỹ thuật : 0966.966.051/052/053</li>
+                    <li>Tòa nhà CT2, khu đô thị Constrexim Thái Hà, Phạm Văn Đồng, Hà Nội</li>
+
+                    <li>Email : contact@talentwins.co</li>
+                   
+                    <li>Hotline hỗ trợ kỹ thuật : 0927151535/0988747982</li>
                 </ul>
             </div>
         </div>
