@@ -35,10 +35,10 @@
                                     <li class="nav-item dropdown">
                                         <a class="nav-link dropdown-toggle" href="{{ route('chuyen_de') }}" ><i class="fas fa-list-ul"></i> Chuyên đề</a>
                                         <ul class="dropdown-menu">
-                                            <li><a class="dropdown-item" href="">ERP</a></li>
-                                            <li><a class="dropdown-item" href="">Phần mềm kế toán</a></li> 
-                                            <li><a class="dropdown-item" href="">CRM</a></li>
-                                            <li><a class="dropdown-item" href="">HRM</a></li>
+                                            <li><a class="dropdown-item" href="{{ route('chuyen_de') }}">ERP</a></li>
+                                            <li><a class="dropdown-item" href="{{ route('chuyen_de') }}">Phần mềm kế toán</a></li> 
+                                            <li><a class="dropdown-item" href="{{ route('chuyen_de') }}">CRM</a></li>
+                                            <li><a class="dropdown-item" href="{{ route('chuyen_de') }}">HRM</a></li>
                                             <li><a class="dropdown-item" href="">BI</a></li>
                                             <li><a class="dropdown-item" href="">SCM</a></li>
                                             <li><a class="dropdown-item" href="">Quản trị doanh nghiệp</a></li>
